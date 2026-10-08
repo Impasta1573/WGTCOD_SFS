@@ -1,0 +1,1110 @@
+[None]
+    None=Chang
+    Font=Ying
+
+[General]
+    Cancel=Chang
+    Close=Bamboo
+
+    On=Ding
+    Off=Chong
+
+    Open_Settings_Button=Chong
+    Open_Cheats_Button=Yang
+    Help=Ding
+
+    Build_Rocket=Ching-Dang
+    Resume_Game=Chong-Ding
+    Return_To_Main_Menu=Bamboo-Ching
+    Exit_To_Main_Menu=Ying-Chang-Dong-Dong
+
+[Main Menu]
+    Play=Bamboo
+
+    Video_Tutorials_OpenButton=Yang-Chong
+    Video_Orbit=Dong-Ying
+    Video_Moon=Chang-Ding
+    Video_Dock=Dang-Dang
+
+    Development_Blog=Bamboo-Dang
+
+    Mod_Loader_OpenButton=Ding-Ding
+    Download_Mods=Dong-Bamboo
+    Open_Mods_Folder=Chang-Ding-Ding
+
+    Community_OpenButton=Ching
+    Community_Youtube=Ding
+    Community_Discord=Dong
+    Community_Reddit=Chong
+    Community_Forums=Ding
+
+    Credits_OpenButton=Yang
+
+    Credits_Text=Chang-Yang-Dang-Ching-Ying
+    Credits_Text=Yang-Ying-Ding-Bamboo-Ying-Chang-Ying
+    Credits_Text=
+    Credits_Text=Chang-Dong-Dong-Yang-Ding-Ying
+    Credits_Text=Ding-Chong-Ding
+    Credits_Text=
+    Credits_Text=Ching-Bamboo-Chong-Ching
+    Credits_Text=Dang-Dong-Bamboo
+    Credits_Text=
+    Credits_Text=Dang-Ying-Ding
+    Credits_Text=Ying-Ding-Yang
+    Credits_Text=
+    Credits_Text=Ying-Ding-Dang-Dang
+    Credits_Text=Ding-Yang-Ying
+    Credits_Text=
+    Credits_Text=Chong-Bamboo-Bamboo-Ding
+    Credits_Text=Chang-Yang-Yang
+    Credits_Text=
+    Credits_Text=Ying-Ding-Bamboo-Ying
+    Credits_Text=Dang-Chong-Ching
+    Credits_Text=
+    Credits_Text=Dang-Ding-Ding-Chong
+    Credits_Text=Bamboo-Dang-Dong
+    Credits_Text=
+    Credits_Text=Chong-Dang-Dong-Bamboo
+    Credits_Text=Ching-Chang-Dong
+
+    First_Time_Playing_Question=Yang-Ying-Bamboo
+    First_Time_Playing_Question=Chong-Chong
+
+    First_Time_Playing_Yes=Dang-Ching-Bamboo
+    First_Time_Playing_No=Bamboo-Chang
+
+    Update_Available=Bamboo-Yang-Yang-Bamboo-Chang
+    Update_Available=
+    Update_Available=Ding-Dong-Dang
+    Update_Available=Dong-Ding-Yang
+
+    Update_Confirm=Chang
+
+    Rate_Title=Ying-Ding-Bamboo-Ching-Ding-Ching-Ding-Yang-Chang
+    Rate_Title=
+    Rate_Title=Ying-Dang-Chong-Bamboo-Bamboo-Chang-Ding-Chang-Yang-Bamboo-Dang-Chong-Ying-Chang-Dang
+    Rate_Title=
+    Rate_Title=Ding-Dang-Ying-Yang-Ding-Yang-Ding-Yang-Dang-Yang-Dang-Dang-Ying
+
+    Rate_Confirm=Ching
+
+    Exit_Button=Dang
+    Close_Game=Dong-Chong
+    Follow_Development=Bamboo-Bamboo
+
+[Worlds Menu]
+    Create_New_World_Button=Ding-Yang-Yang
+    World_Delete=Ding-Chang
+
+# Create menu
+    Create_World_Title=Yang-Chong
+    Default_World_Name=Dong-Ching
+    Select_Solar_System=Ying-Ying-Ching-Bamboo
+
+    Select_Solar_System__NotFound=Dong-Yang-Ding-Chong-Chang-Chang
+    Select_Solar_System__NotFound=Bamboo
+    Select_Solar_System__NotFound=
+    Select_Solar_System__NotFound=Ching-Bamboo-Chong-Ching-Yang
+
+    Default_Solar_System=Ying-Ding-Chang
+    Custom_Solar_System=Yang-Ying
+
+# World info
+    World_Mode_Name=Ying-Ching
+    Mode_Sandbox=Chang
+    Mode_Challenge=Ching
+    Mode_Career=Bamboo
+
+    Allow_Cheats_Name=Chang-Chong-Ying
+    Allow_Cheats_Label=Chong-Dang
+
+    Allow_Quicksaves_Name=Bamboo-Chang-Ying
+    Allow_Quicksaves_Label=Chong-Dong
+
+    World_Difficulty_Name=Ding-Dang
+    Difficulty_Easy=Yang
+    Difficulty_Normal=Chong
+    Difficulty_Hard=Yang
+    Difficulty_Medium=Dong
+    Difficulty_Extreme=Bamboo
+    Difficulty_Realistic=Ying
+
+    World_SolarSystem_Name=Yang-Ding-Ying
+
+    Last_Played=Chong-Dong-Chong-Bamboo
+    Just_Played=Dang-Dong-Dong-Dang-Ying
+    Time_Played=Dang-Chang
+
+[World Create Menu]
+    World_Create_Title=Bamboo-Ding
+    World_Name_Label=Ding-Dong
+    Solar_System_Label=Ying-Chang
+    Mode_Label=Ying
+    Difficulty_Label=Yang
+
+[Teleport Menu]
+    Teleport_Cheat=Dong
+    Teleport_Action=Ching
+    Planet_Select=Bamboo-Chang
+    Surface_Teleport_Type=Ying
+    Orbit_Teleport_Type=Ding
+    Teleport_Longitude=Ying
+    Teleport_Height=Ding-Bamboo
+    Teleport_Orbit_Prograde=Ching
+    Teleport_Orbit_Retrograde=Ying
+
+[Saving]
+# Blueprint stuff
+    Blueprints_Menu_Title=Ding
+    Unnamed_Blueprint=Ding-Chong
+    Save_Blueprint=Bamboo-Ding
+    Load_Blueprint=Chang-Yang
+    Cannot_Save_Empty_Build=Chong-Chong-Ying-Yang-Chong
+
+# Quicksave stuff
+    Quicksaves_Menu_Title=Yang
+    Unnamed_Quicksave=Chong-Chong
+    Create_Quicksave=Yang-Ying
+    Load_Quicksave=Chang-Dang
+
+# Save and load menus
+    Save=Dang
+    Load=Chang
+    Import=Dang
+    Delete=Ching
+    Rename=Chang
+    Create=Yang
+    Delete_File_With_Type=Chong-Ying-Bamboo
+
+# In progress
+    Saving_In_Progress=Bamboo
+    Loading_In_Progress=Yang
+    Importing_In_Progress=Ying
+
+# filetype (injected)
+    Blueprint=Chang
+    Quicksave=Dong
+
+# Ask overwrite menu
+    File_Already_Exists=Dong-Ding-Bamboo-Ying-Dang-Chong-Ding
+    Overwrite_File=Dong-Chang
+    New_File=Dong-Ying
+
+# Load failure
+    Load_Failed=Dong-Ying-Bamboo-Ching-Chang-Chang
+
+[Purchasing]
+    Open_Shop_Menu=Bamboo
+    Open_Shop_Button=Chang
+    Open_Shop_Menu_2=Yang-Ding
+
+    Expansions_List_Title=Ching-Dang-Bamboo
+    Bundles_List_Title=Dong
+
+    View_Details=Dang-Bamboo
+
+    Parts_Expansion=Dang-Yang
+    Expand_View_Button=Yang-Ching
+    Redstone_Atlas_Pack=Ding-Ding-Ding
+    Skins_Expansion=Dang-Ying
+    Gas_Giants_Expansion=Ying-Bamboo-Yang
+    Ice_Giants_Expansion=Chang-Yang-Chang
+    Cheats_Expansion=Dang
+    Infinite_Area_Expansion=Chong-Yang-Chang
+    Builder_Bundle=Ching-Dong
+    Sandbox_Bundle=Ching-Ching
+    Full_Bundle=Chang-Bamboo
+    Upgrade_To_Full_Bundle=Ding-Dong-Dong-Ching
+    Most_Popular_Purchase=Yang-Chong
+    No_Connection=Chong-Bamboo
+
+    Mac_Full_Version=Chang-Bamboo
+    View_Part_Expansion=Dong-Chong
+
+    Not_All_Parts_Are_Owned_Full_Version=Ying-Dong-Bamboo-Ding-Chong
+    Not_All_Parts_Are_Owned_Full_Version=Dang-Yang-Dang-Bamboo
+    Not_All_Parts_Are_Owned_Full_Version=
+    Not_All_Parts_Are_Owned_Full_Version=Dong-Ding-Chong
+
+    More_Parts=Ding-Chang-Chang
+    More_Skins=Ding-Chong-Dang
+    Cannot_Use_Cheats_In_Career=Chang-Chang-Chang-Dang-Ching-Chong-Ding-Dong-Chang-Ying
+    Get_Infinite_Build_Area_Button=Chong-Bamboo-Dang-Yang
+    Get_Cheats_Expansion_Button=Chong-Chang-Chang
+
+    Buy_Product=Dang-Yang-Ying
+
+    Timed_Sale_Text=Bamboo-Ding
+    Timed_Sale_Text=Ding
+
+    Time_Upgrade_Text=Dong-Dang-Yang-Yang
+    Time_Upgrade_Text=Dong
+
+    Purchase_Thanks_Msg=Bamboo-Dong
+    Purchase_Thanks_Msg=
+    Purchase_Thanks_Msg=Bamboo-Chang-Bamboo-Ying
+    Purchase_Thanks_Msg=Ding-Dong-Bamboo-Chang-Yang-Chang
+
+    Owned=Dang-Bamboo
+    Restore_Open=Bamboo-Yang
+
+# Parts Expansion
+    PartsExpansion_Tanks=Bamboo-Dong-Bamboo-Chang-Dong
+    PartsExpansion_Engines=Ding-Dong-Bamboo
+    PartsExpansion_Parts=Yang-Yang-Chang-Ching-Chang-Ding
+
+    PartsExpansion_Build=Chang-Ding-Ching-Yang-Ding
+    PartsExpansion_Build=Yang-Ding-Yang-Ding
+
+# Skins Expansion
+    SkinsExpansion_Tanks=Ding-Bamboo-Chong-Yang-Ding-Chang-Ching-Chong-Dang
+    SkinsExpansion_Interstages=Dong-Chang-Ying-Dong
+    SkinsExpansion_Nosecones=Dong-Ying
+    SkinsExpansion_Fairings=Ying-Chong-Dong
+
+# Planets Expansion
+    PlanetsExpansion_Jupiter=Ying-Ding-Chong-Bamboo-Ching-Chong
+    PlanetsExpansion_Jupiter=Chang-Chang-Ching-Yang-Yang-Ching-Ching-Dong-Chong-Chang-Dang-Dong-Dang-Bamboo
+
+    PlanetsExpansion_Saturn=Ching-Ching-Bamboo-Chang-Ying-Bamboo-Dang-Dong-Dong
+    PlanetsExpansion_SaturnMoons=Yang-Ying-Ching-Yang-Chong-Chong-Chang-Ding-Dang-Ding-Dang-Chang-Chang
+
+    PlanetsExpansion_Uranus=Bamboo-Dang-Dang-Bamboo-Ching-Dang-Ding-Chang-Bamboo
+    PlanetsExpansion_Uranus=Ding-Dong-Bamboo-Bamboo-Ding-Ding-Dang-Ching
+
+    PlanetsExpansion_Neptune=Ying-Dong-Ying-Ding-Chang-Dong-Dang-Ding-Bamboo-Yang-Yang-Dong-Dong
+
+    PlanetsExpansion_Pluto=Chong-Yang-Chang-Ding-Ying-Chang-Chong
+    PlanetsExpansion_Pluto=Ching-Ching-Ding-Dang-Ding-Ding-Chang-Ding-Ding-Dang-Dang-Chang
+
+# Full bundle
+    FullBundle_Description=Ying-Ding-Yang-Chong-Dong-Ching-Ching
+
+    GoogleSignIn=Ying
+    GoogleSignOut=Ching
+    SignInForPurchaseRecovery=Chang-Chang-Chang-Chang-Bamboo
+    CurrentGoogleAcc=Chong-Dong
+    RecoveredPurchases=Dang-Yang
+    PurchaseAddId=Ding-Ying
+    PurchaseAlreadyRegistered=Dong-Dang-Ching-Ying-Bamboo-Dang-Ying
+    OrderNotFound=Yang-Dang-Chong-Chong-Bamboo-Ching-Dang-Bamboo-Chong-Ching-Dang
+
+    OrderNotProcessed=Ching-Ding-Bamboo-Chang-Ding-Chang-Ding
+    OrderNotProcessed=Chang-Chong-Chong-Yang-Chang
+
+    PurchaseNotConsumed=Ching-Dong-Chang-Chong-Yang-Ying-Chang-Yang-Dong-Dang
+    PurchaseNotConsumed=Ching-Bamboo-Dong-Yang-Ying-Bamboo
+
+    RestoredSuccessfully=Ying-Ching-Yang-Ching-Bamboo-Chong-Ding-Bamboo-Ching-Chang
+    RestoredSuccessfully=Bamboo-Chang-Chong-Yang-Ying-Dang
+
+[Sharing]
+    Share_Button=Ching-Ching
+    Upload_Blueprint_PC=Yang-Ying
+    Download_Blueprint_PC=Yang-Chong
+    Share_Button_PC=Chang
+    Download_Confirm=Ching
+    URL_Field_TextBox=Bamboo-Bamboo
+    Empty_Upload=Chong-Ding-Chong-Dang
+    Uploading_Message=Ying
+    Upload_Fail=Yang-Dang-Ding-Dang
+    Copied_URL_To_Clipboard=Dang-Chong-Ding-Bamboo-Ching
+    Sharing_Enter_Prompt=Ching-Dong-Dong-Dang-Ying-Yang-Dong-Ding-Chang-Dong
+    Must_Create_World_Download_BP=Ching-Ching-Chang-Chong-Ying-Ying-Dang-Dong
+    Confirm_Download_Button=Ding-Chang
+    Downloading_Message=Ching
+    Download_Fail=Dang-Ching-Bamboo-Yang
+    URL_Invalid=Chong-Chong-Chong
+    Sharing_Connect_Fail=Dang-Ching-Ding-Ying-Dong-Bamboo
+
+[Settings Mobile]
+    Music_Name=Ching
+    Sound_Name=Ching
+    Screen_Rotation_Name=Ying-Ding
+    FPS_Name=Dong
+    Language_Name=Bamboo
+    Menu_Scale=Ding-Ching
+    Menu_Opacity=Ding-Dong
+    Shakes_Name=Chong-Ying
+    Orbit_Line_Count=Ching-Bamboo-Chang
+    Anti_Aliasing=Yang
+    Set_Save_Location=Yang-Ding-Yang
+    Change_Save_Location=Bamboo-Dang-Bamboo
+    Open_Save_Location=Dong-Ying-Bamboo
+
+    Current_Save_Location=Bamboo-Dang-Chong
+    Current_Save_Location=Dang
+
+[Cheats]
+    Infinite_Build_Area_Name=Ching-Chong-Ching
+    Part_Clipping_Name=Ching-Chang
+    Infinite_Fuel_Name=Dang-Ding
+    No_Atmospheric_Drag_Name=Chong-Chang-Ying
+    No_Collision_Damage_Name=Ding-Ching-Bamboo
+    No_Gravity_Name=Chang-Dang
+    No_Heat_Damage_Name=Bamboo-Chong-Dang
+    No_Burn_Marks_Name=Ying-Chang-Ding
+    Refill_Fuel_Tanks=Ching-Chang-Yang
+    Refilled_Tanks=Yang-Chang-Bamboo-Dong
+    Unlock_Cheats_Button=Ying-Dong
+
+    Unlock_Cheats_Warning=Dong-Ding-Yang-Yang-Bamboo-Chang-Dong-Bamboo-Yang-Dong-Ching
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=Chong-Ching-Chong-Yang
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=Chang-Ding-Yang-Bamboo-Dang-Yang-Dang
+
+[Tutorials]
+
+    Tut_Drag_And_Drop=Yang-Chang-Dong-Dang
+    Tut_Drag_And_Drop=Bamboo-Dang-Ching-Yang
+
+    Tut_Part_Info=Dang-Ying-Ching
+    Tut_Part_Info=Ching-Ying
+
+    Tut_Use_Part=Yang-Chong-Ching-Dang-Ching-Chang-Dong-Chang
+    Tut_Use_Part=Ching-Dang-Dang-Bamboo-Chang-Chong
+
+    Tut_Retry=Dong-Ding
+    Tut_Retry=Ying-Bamboo-Dang
+
+    Tut_Ignition=Yang
+
+    Tut_Throttle=Chang-Dang
+    Tut_Throttle=Yang-Ding
+
+    Tut_Double_Click=Yang-Yang-Dong-Bamboo
+    Tut_Double_Click=Ying-Chong-Ying
+
+    Tut_Symmetry_Mode=Chong-Dong
+    Tut_Area_Select=Chang-Chang-Ching-Ding-Dong-Chong
+
+    Tut_Stages=Ching-Ching-Bamboo-Ying-Chang
+    Tut_Stages=Dang-Chong-Chong-Yang
+
+    Tut_Parachute=Ying-Chang-Bamboo-Ding
+    Tut_Parachute=Ying-Dang-Dong-Bamboo
+    Tut_Parachute=Ding-Dang-Bamboo-Ding-Bamboo
+
+    Tut_Capsule=Yang-Chong-Chong
+    Tut_Capsule=Dong-Ding-Yang-Ding
+
+    Tut_Separator=Ying-Ying-Dang
+    Tut_Separator=Ding-Ching-Dang
+    Tut_Separator=Dang-Yang-Ying-Dong-Bamboo
+
+    Tut_Fuel_Tanks=Ching-Ding
+    Tut_Rocket_Engines=Dang-Ying
+    Tut_Example_Rockets=Bamboo-Yang
+    Tut_Infinite_Area=Yang-Dong-Yang-Ching-Chang-Chong-Ying
+
+    Tut_No_Fuel_Source=Ding-Ying-Ding
+    Tut_No_Fuel_Source=Bamboo-Chang
+
+[Hub]
+    Funds_Text=Chang-Dang
+    Go_To_Space_Center=Dong-Bamboo
+    Exit_To_Space_Center=Bamboo-Ding-Ching-Yang
+    Research_And_Development=Bamboo-Dong-Ching-Ching
+    Challenges_Info=Bamboo-Ching
+    Challenges_Button=Yang-Ying
+    Challenges_Title=Dong
+
+    Challenges_Completed=Ying-Yang
+    Challenges_Completed=Dong
+
+    This_Is_Challenging_Game=Ching-Dong-Ching-Dong-Bamboo-Ying
+    This_Is_Challenging_Game=Ding-Ying-Ying-Chong
+
+    Rocket_Science_Is_Hard=Chong-Yang-Dong-Ding
+    Dont_Give_Up=Ding-Dang-Ying-Ching-Chang-Bamboo-Ching-Ding-Dong
+    New_Part_Unlock_Available=Yang-Dong-Yang-Ching-Ying
+    Insufficient_Funds=Ching-Dong
+
+[Build]
+    Build_New_Rocket=Chang-Ching-Dong
+    New=Ching
+    Expand_Last_Rocket=Chang-Bamboo
+
+    Not_All_Parts_Owned=Dong-Dang-Chong-Ching-Bamboo
+    Not_All_Parts_Owned=Ding-Dong-Dang-Ying
+    Not_All_Parts_Owned=
+    Not_All_Parts_Owned=Ying-Dang-Dang
+
+    Symmetry_On=Yang-Chong
+    Symmetry_Off=Ching-Ching
+
+    Interior_View_On=Ding-Chang-Dang
+    Interior_View_Off=Ding-Chong-Ying
+
+    Launch_Button=Bamboo
+    Move_Rocket_Button=Yang-Dong
+
+# Clear build area
+    Clear_Warning=Chong-Bamboo-Dong
+    Clear_Confirm=Ding
+    Auto_Detach_Capsule=Ding-Ching-Dong
+
+# Launch warnings
+    Warnings_Title=Dong
+    Missing_Capsule=Dong-Chong-Chong-Dang-Chong-Bamboo-Ying-Ying-Ching-Yang
+    Missing_Parachute=Chong-Ding-Ding-Dang-Ding
+    Missing_Heat_Shield=Ying-Dong-Ding-Chang-Dong-Chang
+    Missing_Fuel_Popup=Dang-Dang-Dang
+
+    Too_Heavy=Dong-Ding-Chong-Chong-Yang-Chang-Ying
+    Too_Heavy=Yang
+    Too_Heavy=Bamboo
+
+    Launch_Anyway_Button=Dang-Chong
+
+    Launch_Horizontally_Ask=Bamboo-Ding
+    Launch_Horizontally_Confirm=Chang-Ching
+    Launch_Vertically_Confirm=Dong-Ying
+
+# Example rockets
+    Example_Rockets_OpenMenu=Bamboo-Bamboo
+    Basic_Rocket=Ching-Chang
+    Stages=Ding-Chong-Chang
+    Ideal_Stages=Dong-Chang-Chang
+    Lander=Ching-Ding
+
+[Map]
+    Toggle_Map_Button=Ding
+    Escape=Ching
+    Encounter=Ying
+    Rendezvous=Chong
+    Transfer=Ying-Ching
+
+[Game]
+    Throttle_On=Ching
+    Throttle_Off=Ding
+    Ignition=Ding
+    RCS=Yang
+    Rocket_Has_No_RCS=Bamboo-Bamboo-Dong-Bamboo-Ching-Dong
+
+# Game supports screen rotation, we split into 2 lines in vertical mode
+    Height_Terrain_Vertical=Ching-Ying
+    Height_Terrain_Vertical=
+    Height_Terrain_Vertical=Dong
+
+    Height_Vertical=Ching
+    Height_Vertical=
+    Height_Vertical=Yang
+
+    Velocity_Vertical=Chang
+    Velocity_Vertical=
+    Velocity_Vertical=Bamboo
+
+    Velocity_Relative_Vertical=Dang-Chang
+    Velocity_Relative_Vertical=
+    Velocity_Relative_Vertical=Ching
+
+    Distance_Relative_Vertical=Dong-Bamboo
+    Distance_Relative_Vertical=
+    Distance_Relative_Vertical=Chang
+
+    Angle_Vertical=Bamboo
+    Angle_Vertical=
+    Angle_Vertical=Dang-Dang-Yang
+
+    Height_Terrain_Horizontal=Bamboo-Ying-Dong
+    Height_Horizontal=Ying-Yang
+    Velocity_Horizontal=Ding-Dang
+    Velocity_Relative_Horizontal=Ding-Dang-Chang
+    Distance_Relative_Horizontal=Yang-Bamboo-Yang
+    Angle_Horizontal=Ding-Dang-Chang-Ding
+
+    Relative_Velocity_Arrow=Ching-Yang
+    Relative_Velocity_Arrow=Dong
+
+    Side_Velocity_Arrow=Ying-Ching
+    Side_Velocity_Arrow=Chong
+
+    Forward_Velocity_Arrow=Bamboo
+    Forward_Velocity_Arrow=Bamboo
+    Forward_Velocity_Arrow=
+    Forward_Velocity_Arrow=Chong
+    Forward_Velocity_Arrow=Ding
+
+[Failure menu]
+    Failure_Cause=Dang-Yang
+    Failure_Crash_Into_Rocket=Ching-Chang-Dang-Ching
+    Failure_Crash_Into_The_Ocean=Ching-Dong-Dong-Yang
+    Failure_Burn_Up=Dang-Chang-Chang-Bamboo
+
+[Dynamic_Planet_Specific]
+    Failure_Crash_Into_Terrain=Ching-Ying-Dong-Yang-Ying-Dong
+    LandAndReturn_Title=Dong-Ching
+    LandAndReturn=Dang-Ching-Dong-Ying-Dang-Chang-Chang-Yang-Ching
+    Survived_Reentry=Dong-Dang-Ching-Dang-Chang-Dang
+
+    Reached_Low_Orbit=Ching-Dang-Ching-Dang
+    Reached_High_Orbit=Dong-Ching-Bamboo-Bamboo
+    Descend_Low_Orbit=Chong-Dong-Bamboo-Dong-Dong
+    Capture_Low_Orbit=Dang-Yang-Chong-Ching-Chang
+    Capture_High_Orbit=Chong-Dong-Bamboo-Ching-Dang
+
+    Entered_Lower_Atmosphere=Chang-Ying-Ying-Bamboo
+    Entered_Upper_Atmosphere=Bamboo-Yang-Ding-Ding
+    Left_Lower_Atmosphere=Chong-Chong-Chang-Ding
+    Left_Upper_Atmosphere=Chang-Chang-Bamboo
+
+    Landed=Dong-Bamboo-Dang-Chong-Ding-Yang
+
+    Landed_At_Landmark=Chong-Ding-Chang-Dong-Chong-Ding
+    Landed_At_Landmark=Ying-Ching
+
+    Landed_At_Landmark__Short=Ding-Ching-Dang-Ding-Yang-Ying
+    Landed_At_Landmark__Short=Yang-Yang-Dong
+
+    Crashed_Into_Terrain=Ding-Chang-Yang-Dang-Dang-Dong
+
+    Entered_SOI=Ying-Yang-Bamboo-Bamboo-Ying-Ching-Dong
+    Escaped_SOI=Ding-Dong-Chang-Dong-Dang-Yang-Ding
+
+    Docked_Suborbital=Yang-Chong-Chong-Ying-Dong-Ding-Ching
+    Docked_Orbit_Low=Dang-Dong-Dang-Bamboo-Yang
+    Docked_Orbit_Transfer=Yang-Chong-Chang-Dong-Chong-Ying-Ding
+    Docked_Orbit_High=Yang-Chong-Yang-Dong-Ding
+    Docked_Escape=Dong-Ding-Yang-Ying-Ching-Ying-Chong
+    Docked_Surface=Chang-Chang-Ching-Chong-Bamboo-Bamboo
+
+    Recover_Home=Bamboo-Ding-Yang-Chong
+
+[End mission menu]
+    Recover_Rocket=Ying
+    Destroy_Rocket=Bamboo
+    Debris_Recover=Dang-Ching
+    Debris_Destroy=Ding-Ying
+    Debris_Recover_Title=Ying-Ying
+    Debris_Destroy_Title=Ding-Yang
+    View_Mission_Log=Ying-Chang-Ching
+
+# Restart menu
+    Restart_Mission_To_Launch_Warning=Dong
+    Restart_Mission_To_Launch_Warning=Dong-Bamboo-Dong-Chang-Ying-Yang-Bamboo-Ding
+
+    Restart_Mission_To_Build_Warning=Ching
+    Restart_Mission_To_Build_Warning=Dong-Bamboo-Ding-Ching-Bamboo-Dong-Ding-Ching
+
+    Restart_Mission_To_Launch=Ying-Dong-Dong
+    Restart_Mission_To_Build=Ching-Chong-Yang
+    Revert_30_Secs=Dang-Ying-Yang
+    Revert_3_Min=Yang-Chong-Chong
+
+# End mission menu
+    End_Challenges_Title=Dang-Yang
+    End_Logs_Title=Yang-Dang
+    Continue_To_Log=Yang
+    Back_To_Challenges=Dong
+
+# Clear space junk/debris
+    Clear_Debris_Warning=Yang-Bamboo
+    Clear_Debris_Warning=
+    Clear_Debris_Warning=Yang-Dang-Ding-Chong-Dong-Dong
+
+    Clear_Debris_Confirm=Chang-Yang
+
+# Select menu
+    Navigate_To=Chang-Dong
+    End_Navigation=Ding-Bamboo
+    Focus=Chong
+    Unfocus=Chong
+    Track=Chong
+    Stop_Tracking=Ding-Ding
+    Switch_To=Ding-Chang
+
+[Rocket]
+    Default_Rocket_Name=Ying
+    No_Control_Msg=Ching-Ying
+
+[Timewarp]
+    Msg_Timewarp_Speed=Chang-Chong-Ding
+
+    Cannot_Timewarp_Below_Basic=Yang-Chang-Bamboo-Yang
+    Cannot_Timewarp_Below=Ying-Chong-Bamboo-Dang-Ching-Dong-Ding-Bamboo
+    Cannot_Timewarp_While_Moving_On_Surface=Ying-Dang-Ching-Dong-Yang-Yang-Ding-Ching-Dong-Yang
+    Cannot_Timewarp_While_Moving_Water=Ching-Dang-Ding-Chong-Chong-Ding-Yang-Chong-Ching
+    Cannot_Timewarp_While_Accelerating=Yang-Dong-Chong-Bamboo-Chang-Dang-Dong-Chang
+    Cannot_Use_Part_While_Timewarping=Bamboo-Ying-Bamboo-Ching-Chang
+    Cannot_Turn_While_Timewarping=Bamboo-Ding-Bamboo-Bamboo
+
+    Timewarp_To_Button=Dong-Yang
+
+[Units]
+    Thrust_To_Weight_Ratio=Ying-Ying-Chong-Dong
+    Mass=Ying-Ying
+    Density=Chong-Dang
+    Thrust=Yang-Chang
+    Burn_Time=Ying-Yang-Yang
+    Efficiency=Bamboo-Ding-Ding
+    Mass_Unit=Dong
+    Meter_Unit=Chong
+    Km_Unit=Chang
+    Meter_Per_Second_Unit=Dang
+
+[Timestamps]
+    Second_Short=Ching
+    Minute_Short=Chang
+    Hour_Short=Bamboo
+    Day_Short=Dang
+
+[Resource Types]
+    Solid_Fuel=Yang-Bamboo
+    Liquid_Fuel=Dong-Dong
+
+[Resource Uses]
+    Resource_Bars_Title=Ding
+    Info_Resource_Amount=Ching-Bamboo
+    Msg_No_Resource_Source=Ching-Ding-Yang
+    Msg_No_Resource_Left=Dang-Ching-Dong
+
+[Part Categories]
+    Basic_Parts=Dong
+    Six_Wide_Parts=Chong-Ching
+    Eight_Wide_Parts=Bamboo-Yang
+    Ten_Wide_Parts=Ding-Chang
+    Twelve_Wide_Parts=Dang-Ching
+    Engine_Parts=Dang
+    Aerodynamics_Parts=Chang
+    Fairings_Parts=Yang
+    Structural_Parts=Dong
+    Other_Parts=Ding
+    Redstone_Atlas=Yang-Chong
+    Boosters=Ching
+
+[Part Names]
+    Capsule_Name=Ying
+    Probe_Name=Chang
+    Parachute_Name=Chong
+
+    Kolibri_Engine_Name=Dang-Ying
+    Hawk_Engine_Name=Yang-Ching
+    Valiant_Engine_Name=Chong-Yang
+    Titan_Engine_Name=Dang-Yang
+    Frontier_Engine_Name=Chang-Ding
+    Peregrine_Engine_Name=Ding-Ying
+    Ion_Engine_Name=Yang-Dang
+    RCS_Thruster_Name=Yang-Yang
+
+    Solid_Rocket_Booster=Chang-Yang-Chong
+
+    Fuel_Tank_Name=Chang-Dang
+    Separator_Name=Ding-Ding
+    Side_Separator_Name=Chong-Dang
+    Structural_Part_Name=Dong-Yang
+    Landing_Leg_Name=Ching-Ying
+    Aerodynamic_Nose_Cone_Name=Dong-Ying-Ching
+    Aerodynamic_Fuselage_Name=Ying-Ching
+    Fairing_Name=Dong
+    Rover_Wheel_Name=Dong-Yang
+    Docking_Port_Name=Chang-Ying
+    Solar_Panel_Name=Ding-Chang
+    Battery_Name=Ding
+    RTG_Name=Ching
+    Heat_Shield_Name=Bamboo-Chang
+    Fuel_Pipe_Name=Dong-Ding
+    A_7_Engine_Name=Ding-Chang
+    Side_Cover_Name=Dong-Chang
+    Cover_name=Dong
+    Fuselage_Name=Chang
+    LR_89_5_Engine_Name=Ding-Dong
+    LR_105_5_Engine_Name=Ying-Ching
+    Adapter_Name=Chang
+    Engine_Base_Name=Ying-Ying
+    Retro_Pack_Name=Ding-Bamboo
+    LES_Name=Bamboo-Bamboo-Bamboo
+
+[Part Descriptions]
+    Capsule_Description=Ching-Chong-Bamboo-Ching-Chang-Dang
+    Probe_Description=Ying-Yang-Ching-Chang-Bamboo-Ying-Dong-Dong
+    Parachute_Description=Ching-Dang-Dong-Yang-Dang
+    Fuel_Tank_Description=Yang-Ying-Chang-Chong-Bamboo-Chong-Chang-Dong-Dong
+    Separator_Description=Chang-Yang-Chang-Dong-Yang-Yang-Yang
+    Side_Separator_Description=Bamboo-Yang-Bamboo-Ching-Ding-Ding-Dang
+    Landing_Leg_Description=Ying-Chang-Yang-Ching-Ying-Ying-Dang-Chang-Ying-Dang-Chang-Ding-Ching-Ying-Ching
+    Structural_Part_Description=Yang-Bamboo-Ching-Ching-Bamboo-Ching
+    Hawk_Engine_Description=Chang-Ching-Ching-Ying-Ching-Dang-Chong-Dong-Ding-Bamboo-Bamboo-Yang-Yang-Ying-Dong-Yang
+    Titan_Engine_Description=Chang-Ching-Dong-Ying-Ding-Chang-Ding-Ying-Ying-Ying-Chong-Bamboo-Ding-Chong-Dang-Chong
+    Valiant_Engine_Description=Dong-Chong-Dong-Dang-Ying-Bamboo-Ying-Yang-Ying-Yang-Dong-Ying-Yang
+    Frontier_Engine_Description=Ding-Ying-Bamboo-Chang-Chong-Dong-Yang-Ding-Ying-Chong-Dang-Bamboo-Dong
+    Kolibri_Engine_Description=Ching-Ying-Dong-Bamboo-Dong-Bamboo
+    Ion_Engine_Description=Chong-Yang-Yang-Ying-Ding-Dong-Ying-Chong-Ching
+    RCS_Thruster_Description=Ding-Ying-Bamboo-Chong-Ying-Yang-Ding-Ying-Dong
+
+    Booster_Description=Yang-Ching-Dong-Bamboo-Dang
+    Booster_Description=Chang-Dong-Dong-Ying-Dong-Bamboo-Chong-Ching
+
+    Aerodynamic_Nose_Cone_Description=Ding-Ying-Ying-Bamboo-Chang-Ching-Dang-Dang-Yang-Dang-Ying-Bamboo
+    Aerodynamic_Fuselage_Description=Bamboo-Chong-Yang-Chong-Ding-Ying-Chang
+    Fairing_Description=Dong-Ying-Chang-Bamboo-Bamboo-Chong-Ding
+    Battery_Description=Dong-Ding-Chong-Ying-Yang-Bamboo-Chong
+    Solar_Panel_Description=Dang-Ching-Ying-Ying-Yang-Ying-Dong-Ching
+    RTG_Description=Yang-Bamboo-Bamboo-Dong-Chong
+    Rover_Wheel_Description=Chang-Bamboo-Bamboo-Dang-Chong-Ding-Ching-Dong-Chong-Chong
+    Docking_Port_Description=Yang-Dong-Yang-Yang-Chang-Ching-Yang-Chang-Yang-Chong-Chong-Dang
+    Heat_Shield_Description=Yang-Yang-Chang-Dang-Ding-Bamboo-Ying-Ying-Dong
+    Fuel_Pipe_Description=Dang-Dang-Ching-Dang-Ying-Chang
+
+[Modules]
+    Torque_Module_Torque=Chong-Dang
+    Separation_Force=Chong-Chong-Chong
+    Magnet_Force=Ying-Dong-Bamboo
+
+    Max_Heat_Tolerance=Dong-Ying-Ying
+
+    State_On{0}=Ding
+    State_Off{0}=Ying
+
+    Engine_Module_State=Yang-Dang
+    Engine_On_Label=Bamboo-Yang
+    Gimbal_On_Label=Dong-Ching
+
+    Booster_On=Ying-Dang
+    Booster_Off=Ying-Bamboo
+    Cannot_Ignite_Covered_Booster=Dong-Chang-Dang-Ching-Yang
+    Booster_Cannot_Be_Off=Dong-Ding-Dang-Ding-Bamboo-Dang-Chong-Yang-Bamboo
+
+    Msg_RCS_Module_State=Ding-Ding
+
+    Wheel_Module_State=Ding-Chang-Yang
+    Wheel_On_Label=Chang-Dong
+
+    Panel_Expanded=Dong
+    Landing_Leg_Expanded=Ching
+
+    Detach_Edges_Label=Yang-Dang
+    Adapt_To_Tanks_Label=Ching-Yang-Bamboo-Ying
+
+    Info_Parachute_Max_Height=Ying-Ying-Yang-Chong
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=Ding-Dong-Dang-Ching-Yang-Ching
+    Msg_Cannot_Deploy_Parachute_Above=Dong-Ding-Dong-Chang-Ying
+    Msg_Cannot_Fully_Deploy_Above=Ying-Ching-Dang-Dang-Ching-Ding
+    Msg_Cannot_Deploy_Parachute_While_Faster=Yang-Ding-Bamboo-Chong-Yang-Chang-Ding-Chang
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=Ching-Ying-Dang-Chong-Dong-Dang
+    Msg_Cannot_Deploy_Parachute_Under_Water=Chong-Yang-Dang-Chong
+    Msg_Parachute_Half_Deployed=Dang-Bamboo-Ching
+    Msg_Parachute_Fully_Deployed=Dong-Ding-Ding
+    Msg_Parachute_Cut=Ying-Chong
+
+[Part Pick Categories]
+# Part Categories in Pick Part Menu
+    Part_Pick_Category_Aero=Ying
+    Part_Pick_Category_Parachutes=Yang
+    Part_Pick_Category_Engines=Ding
+    Part_Pick_Category_Structural=Ying
+    Part_Pick_Category_Utility=Yang
+    Part_Pick_Category_Control=Dang
+    Part_Pick_Category_Landing=Dong
+    Part_Pick_Category_Electricity=Ying
+
+    Part_Pick_Category_Fuel=Ding
+    Part_Pick_Category_Fuel=Ying
+
+    Part_Pick_Category_Fairings=Dang
+    Part_Pick_Category_Wheels=Ding
+    Part_Pick_Category_Docking=Ying
+
+    Part_Pick_Category_Heat_Protection=Ding
+    Part_Pick_Category_Heat_Protection=Chang
+
+    Part_Pick_Category_Staging=Dang
+    Part_Pick_Category_Mounts=Chang
+
+[Planets]
+    Sun{0}=Bamboo
+    Sun{1}=Ching-Dang
+    Sun{2}=Ching-Chong
+    Mercury{0}=Dong
+    Venus{0}=Bamboo
+    Earth{0}=Yang
+    Earth{1}=Ching-Ying
+    Earth{2}=Yang-Ding
+    Earth{3}=Ying
+    Moon{0}=Ding
+    Moon{1}=Chong-Chong
+    Moon{2}=Chong-Ying
+    Near_Earth_Asteroid{0}=Ding-Ying
+    Near_Earth_Asteroid{1}=Yang-Bamboo-Yang
+    Near_Earth_Asteroid{2}=Chang-Ding-Chong
+    Mars{0}=Dong
+    Phobos{0}=Ching
+    Deimos{0}=Ding
+    Ceres{0}=Dong
+    Jupiter{0}=Ding
+    Jupiter{1}=Bamboo
+    Jupiter{2}=Yang
+    Jupiter{3}=Ding
+    Europa{0}=Dong
+    Ganymede{0}=Dang
+    Io{0}=Dong
+    Callisto{0}=Dang
+    Thebe{0}=Bamboo
+    Thebe{1}=Bamboo
+    Thebe{2}=Chong
+    Thebe{3}=Chong
+    Saturn{0}=Chang
+    Saturn{1}=Yang
+    Saturn{2}=Dang
+    Saturn{3}=Ding
+    Pan{0}=Ying
+    Pan{1}=Ding
+    Pan{2}=Chang
+    Pan{3}=Bamboo
+    Enceladus{0}=Dong
+    Enceladus{1}=Dong
+    Enceladus{2}=Ching
+    Enceladus{3}=Ding
+    Iapetus{0}=Chang
+    Iapetus{1}=Chang
+    Iapetus{2}=Dong
+    Iapetus{3}=Chong
+    Titan{0}=Ying
+    Titan{1}=Ding
+    Titan{2}=Yang
+    Titan{3}=Dang
+    Rhea{0}=Ding
+    Rhea{1}=Ching
+    Rhea{2}=Yang
+    Rhea{3}=Ying
+    Tethys{0}=Ding
+    Tethys{1}=Ding
+    Tethys{2}=Ding
+    Tethys{3}=Dang
+    Dione{0}=Dang
+    Dione{1}=Dang
+    Dione{2}=Chong
+    Dione{3}=Dong
+    Mimas{0}=Yang
+    Mimas{1}=Ying
+    Mimas{2}=Chong
+    Mimas{3}=Bamboo
+    Uranus{0}=Chong
+    Uranus{1}=Bamboo
+    Uranus{2}=Bamboo
+    Uranus{3}=Dong
+    Miranda{0}=Ching
+    Miranda{1}=Dong
+    Miranda{2}=Ding
+    Miranda{3}=Ding
+    Ariel{0}=Dong
+    Ariel{1}=Yang
+    Ariel{2}=Dong
+    Ariel{3}=Bamboo
+    Titania{0}=Ying
+    Titania{1}=Bamboo
+    Titania{2}=Ying
+    Titania{3}=Dang
+    Umbriel{0}=Bamboo
+    Umbriel{1}=Dang
+    Umbriel{2}=Chang
+    Umbriel{3}=Bamboo
+    Oberon{0}=Ding
+    Oberon{1}=Chang
+    Oberon{2}=Ying
+    Oberon{3}=Ching
+    Puck{0}=Chong
+    Puck{1}=Yang
+    Puck{2}=Ying
+    Puck{3}=Yang
+    Neptune{0}=Ying
+    Neptune{1}=Bamboo
+    Neptune{2}=Dang
+    Neptune{3}=Ding
+    Proteus{0}=Ding
+    Proteus{1}=Dang
+    Proteus{2}=Ding
+    Proteus{3}=Dong
+    Triton{0}=Chang
+    Triton{1}=Bamboo
+    Triton{2}=Chong
+    Triton{3}=Ching
+    Naiad{0}=Chang
+    Naiad{1}=Dong
+    Naiad{2}=Dong
+    Naiad{3}=Yang
+    Pluto{0}=Ching
+    Pluto{1}=Dang
+    Pluto{2}=Chang
+    Pluto{3}=Chang
+    Charon{0}=Ching
+    Charon{1}=Ching
+    Charon{2}=Bamboo
+    Charon{3}=Dang
+    Nix{0}=Ding
+    Nix{1}=Ying
+    Nix{2}=Ding
+    Nix{3}=Ying
+    Hydra{0}=Ying
+    Hydra{1}=Ying
+    Hydra{2}=Dong
+    Hydra{3}=Chong
+
+[Landmarks]
+    Sea_of_Tranquility=Ying-Dong-Ding
+    Sea_of_Serenity=Chang-Ding-Ching
+    Ocean_of_Storms=Dong-Bamboo-Yang
+    Copernicus_Crater=Bamboo-Dang
+    Tycho_Crater=Chang-Ding
+
+    Olympus_Mons=Bamboo-Ching
+    Valles_Marineris=Bamboo-Chang
+    Gale_Crater=Chang-Yang
+    Hellas_Planitia=Dong-Ching
+    Arcadia_Planitia=Ying-Dong
+    Utopia_Planitia=Ching-Ying
+    Jezero_Crater=Ying-Chong
+
+    Stickney_Crater=Chang-Chang
+
+    Voltaire_Crater=Chong-Bamboo
+    Swift_Crater=Chong-Chang
+
+    Atalanta_Planitia=Ching-Chang
+    Lavinia_Planitia=Chang-Bamboo
+
+    Caloris_Planitia=Ying-Ying
+    Borealis_Planitia=Ding-Yang
+    Maxwell_Montes=Ding-Ching
+
+    Laica_Crater=Ying-Ding
+    Kachina_Chasmata=Ching-Yang
+
+    Urvara_Crater=Dong-Chong
+    Kerwan_Crater=Dong-Chang
+
+    Bosphorus_Regio=Bamboo-Dang
+    Colchis_Regio=Bamboo-Dong
+    Chalybes_Regio=Ding-Dang
+
+    Conamara_Chaos=Ying-Dang
+
+    Galileo_Regio=Yang-Ching
+
+    Equatorial_Ridge=Chang-Chang
+
+    Verona_Rupes=Ding-Yang
+    Arden_Corona=Bamboo-Chang
+    Elsinore_Corona=Dong-Bamboo
+
+    Mommur_Chasma=Chang-Ying
+
+    Wunda_Crater=Chong-Ding
+    Vuver_Crater=Yang-Ding
+    Skynd_Crater=Ying-Bamboo
+
+    Telemachus=Bamboo
+    Ithaca_Chasma=Chong-Chang
+
+    Bogle_Crater=Chong-Ching
+    Lob_Crater=Ying-Ching
+    Butz_Crater=Ching-Dong
+
+    Palatine_Chasmata=Ding-Bamboo
+    Evander_Crater=Ding-Yang
+
+    Tirawa_Crater=Ching-Ding
+
+    Tiger_Stripes=Ching-Ying
+
+    Senkyo_Ocean=Chong-Ding
+    Fensal_Ocean=Dang-Yang
+    Shangri_La_Ocean=Bamboo-Chong-Ying
+
+    Bona_Chasma=Ying-Ying
+
+    Pharos_Crater=Bamboo-Ying
+
+    Guttae=Chang
+
+    Herschel_Crater=Ding-Ching
+
+    Sputnik_Planitia=Chang-Yang
+
+    Serenity_Chasma=Dong-Ding
+    Mordor_Macula=Ying-Dong
+
+    Metztli_Crater=Ching-Yang
+
+    Zethus_Crater=Ding-Ching
+
+[Challenges]
+    Liftoff_Title=Dong
+    Liftoff=Ying-Dong-Yang-Ying
+
+    Reach10km_Title=Bamboo-Dang
+    Reach10km=Chang-Ching-Dang-Ding-Dang
+
+    ReachSpace_Title=Ding-Dong
+    ReachSpace=Yang-Ying-Dong-Dang-Chang-Ying-Ching-Chong
+
+    Land100kmDownrange_Title=Chang-Chang-Chong
+    Land100kmDownrange=Yang-Ching-Dang-Chang-Ching-Dong-Chong-Dang-Ying
+
+    ReachLowEarthOrbit_Title=Dang-Dong-Ding-Dong
+    ReachLowEarthOrbit=Chong-Dong-Ying-Ying-Dong-Chong-Chong
+
+    ReachHighEarthOrbit_Title=Dong-Chong-Ying-Yang
+    ReachHighEarthOrbit=Chang-Ying-Ding-Bamboo-Ying-Ying-Ying
+
+    MoonOrbit_Title=Ding-Chong
+    MoonOrbit=Ding-Ying-Chang-Yang-Ying-Ying-Chong-Ching
+
+    MoonTour_Title=Ching-Chang
+    MoonTour=Dong-Chong-Chong-Bamboo-Dong-Ching-Yang-Yang
+
+    AsteroidImpact_Title=Ching-Dang
+    AsteroidImpact=Dong-Ding-Dong-Yang-Ying-Yang-Bamboo-Ching-Ying-Dong-Dong
+
+    MarsGrandTour_Title=Ding-Chong-Dang
+    MarsGrandTour=Yang-Bamboo-Dong-Dong-Ding-Yang-Ying-Chong-Ying-Chong-Chong-Dang
+
+    VenusLanding_Title=Chong-Dang
+    VenusLanding=Ding-Bamboo-Ching-Yang-Dang-Dang-Chong-Chong-Yang-Chang-Bamboo-Dong
+
+    VenusReturn_Title=Yang-Bamboo
+    VenusReturn=Ding-Dong-Ying-Chang-Chang-Dang-Chang-Ying-Dang-Dong-Chong-Dong-Yang-Bamboo-Dong
+
+    MercuryLanding_Title=Ying-Ying
+    MercuryLanding=Chang-Chong-Bamboo-Dong-Dang-Ding
+
+    MercuryReturn_Title=Dong-Chang
+    MercuryReturn=Dang-Dong-Ying-Bamboo-Dong-Ying-Yang-Bamboo-Ding
+
+[Achievements]
+    Reached_Karman_Line=Bamboo-Dang-Chang-Chong-Ying-Dang-Ying-Dong-Dong-Chang
+    Reached_Height=Ching-Dong-Chong
+
+[Mod Loader]
+    Mods_Button=Dang
+    Mods_Still_Loading=Dong-Ying-Chang-Dong
+    ModType_Label=Ding-Bamboo
+    Version_Label=Bamboo-Chang
+    CodeMod_Name=Ying-Dong
+    PartAssetPack_Name=Yang-Dong-Bamboo
+    TexturePack_Name=Ying-Chong-Ching
+    SolarSystemPack_Name=Chang-Ching-Dang
+    CodeModNotAllowedOnMobile=Ying-Ying-Ching-Dang-Dong-Chong-Yang-Bamboo-Bamboo-Ching-Yang-Chang-Chong-Chang-Ying-Dang-Chang
+    Author_Label=Chang-Ching
+    Changes_Warning=Bamboo-Dong-Ching-Chong-Yang-Bamboo-Chong-Ying-Chang-Bamboo-Ding-Dang-Bamboo-Chang
+    Relaunch=Chong
+
+    Set_ModsFolder_Question=Chong-Ying-Ding-Yang-Ding-Chong-Bamboo-Yang-Bamboo-Ding-Dang-Ching-Dong-Chong
+    Set_ModsFolder_Question=Dong-Chang-Bamboo-Chong-Bamboo-Chong-Yang-Ching-Dong-Chang
+
+    Lost_Access_Mods=Dong-Ding-Dong-Chang-Dang-Chong-Ying-Ying
+    Lost_Access_Mods=Ding-Dong-Dong-Dong-Dang-Bamboo-Dong-Dong-Chong
+    Lost_Access_Mods=Ching-Chong-Yang-Ding-Ying-Bamboo
+
+    Set_ModsFolder_Continue=Ying
+
+    Set_ModsFolder_Confirm_Copy=Ching-Dang-Dong-Ying-Ying-Bamboo-Bamboo-Chong-Yang
+    Set_ModsFolder_Confirm_Copy=Bamboo
+    Set_ModsFolder_Confirm_Copy=Chong
+    Set_ModsFolder_Confirm_Copy=Ying
+    Set_ModsFolder_Confirm_Copy=Ching-Dang-Bamboo-Ding-Ying-Bamboo-Ding-Dang-Ying-Ying-Dong-Yang-Ding
+
+[Notifications]
+    Notify_For_New_Releases=Ding-Dang-Bamboo-Dang-Chong-Ching-Ying-Dong-Ching
+    Notify_Me=Bamboo-Ying

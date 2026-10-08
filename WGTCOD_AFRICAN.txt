@@ -1,0 +1,1110 @@
+[None]
+    None=DOH
+    Font=BOOGA
+
+[General]
+    Cancel=DOH
+    Close=DOO
+
+    On=OOGA
+    Off=BOOGA
+
+    Open_Settings_Button=DOO
+    Open_Cheats_Button=OOGA
+    Help=DOO
+
+    Build_Rocket=DOO OOGA
+    Resume_Game=DOO BOOGA
+    Return_To_Main_Menu=DOO DOO
+    Exit_To_Main_Menu=OOGA BOOGA OOGA BOOGA
+
+[Main Menu]
+    Play=DOO
+
+    Video_Tutorials_OpenButton=DOH DOO
+    Video_Orbit=OOGA DOH
+    Video_Moon=DOH OOGA
+    Video_Dock=OOGA OOGA
+
+    Development_Blog=DOH DOH
+
+    Mod_Loader_OpenButton=DOH DOH
+    Download_Mods=DOO DOH
+    Open_Mods_Folder=DOO OOGA OOGA
+
+    Community_OpenButton=BOOGA
+    Community_Youtube=BOOGA
+    Community_Discord=BOOGA
+    Community_Reddit=DOH
+    Community_Forums=OOGA
+
+    Credits_OpenButton=DOO
+
+    Credits_Text=BOOGA DOH DOO OOGA DOO
+    Credits_Text=DOO OOGA DOO OOGA OOGA DOH DOH
+    Credits_Text=
+    Credits_Text=BOOGA OOGA OOGA OOGA OOGA BOOGA
+    Credits_Text=BOOGA DOO BOOGA
+    Credits_Text=
+    Credits_Text=DOO DOH DOO BOOGA
+    Credits_Text=DOH OOGA DOO
+    Credits_Text=
+    Credits_Text=DOO OOGA DOO
+    Credits_Text=DOH OOGA BOOGA
+    Credits_Text=
+    Credits_Text=DOO BOOGA DOH DOO
+    Credits_Text=OOGA OOGA OOGA
+    Credits_Text=
+    Credits_Text=BOOGA DOO BOOGA OOGA
+    Credits_Text=BOOGA OOGA DOO
+    Credits_Text=
+    Credits_Text=BOOGA BOOGA DOO DOH
+    Credits_Text=DOH DOH DOO
+    Credits_Text=
+    Credits_Text=OOGA BOOGA BOOGA BOOGA
+    Credits_Text=DOH DOH DOH
+    Credits_Text=
+    Credits_Text=OOGA DOH BOOGA DOH
+    Credits_Text=OOGA DOH DOH
+
+    First_Time_Playing_Question=OOGA DOH BOOGA
+    First_Time_Playing_Question=DOO DOH
+
+    First_Time_Playing_Yes=DOO OOGA DOO
+    First_Time_Playing_No=BOOGA DOO
+
+    Update_Available=DOO OOGA DOO OOGA DOO
+    Update_Available=
+    Update_Available=OOGA DOO DOH
+    Update_Available=BOOGA DOO OOGA
+
+    Update_Confirm=OOGA
+
+    Rate_Title=OOGA DOH OOGA DOH DOO DOH BOOGA DOO DOO
+    Rate_Title=
+    Rate_Title=DOO DOH OOGA DOO DOH DOH DOH DOO DOO OOGA OOGA OOGA BOOGA DOO DOH
+    Rate_Title=
+    Rate_Title=BOOGA BOOGA DOH DOH DOH BOOGA BOOGA DOH DOH BOOGA OOGA BOOGA OOGA
+
+    Rate_Confirm=DOO
+
+    Exit_Button=DOH
+    Close_Game=DOH DOH
+    Follow_Development=DOH OOGA
+
+[Worlds Menu]
+    Create_New_World_Button=BOOGA OOGA DOO
+    World_Delete=DOH DOH
+
+# Create menu
+    Create_World_Title=OOGA OOGA
+    Default_World_Name=OOGA DOO
+    Select_Solar_System=OOGA DOO DOH OOGA
+
+    Select_Solar_System__NotFound=BOOGA OOGA DOH OOGA DOO DOO
+    Select_Solar_System__NotFound=BOOGA
+    Select_Solar_System__NotFound=
+    Select_Solar_System__NotFound=OOGA DOO DOO OOGA OOGA
+
+    Default_Solar_System=DOH BOOGA DOO
+    Custom_Solar_System=BOOGA OOGA
+
+# World info
+    World_Mode_Name=DOO DOH
+    Mode_Sandbox=DOH
+    Mode_Challenge=BOOGA
+    Mode_Career=OOGA
+
+    Allow_Cheats_Name=BOOGA BOOGA BOOGA
+    Allow_Cheats_Label=DOH OOGA
+
+    Allow_Quicksaves_Name=DOH OOGA OOGA
+    Allow_Quicksaves_Label=BOOGA DOO
+
+    World_Difficulty_Name=BOOGA DOH
+    Difficulty_Easy=DOO
+    Difficulty_Normal=OOGA
+    Difficulty_Hard=DOO
+    Difficulty_Medium=DOH
+    Difficulty_Extreme=DOH
+    Difficulty_Realistic=OOGA
+
+    World_SolarSystem_Name=BOOGA DOH OOGA
+
+    Last_Played=DOO BOOGA DOH DOH
+    Just_Played=BOOGA DOO DOH BOOGA DOO
+    Time_Played=DOO DOH
+
+[World Create Menu]
+    World_Create_Title=DOH DOH
+    World_Name_Label=OOGA DOO
+    Solar_System_Label=DOH OOGA
+    Mode_Label=DOH
+    Difficulty_Label=DOH
+
+[Teleport Menu]
+    Teleport_Cheat=DOO
+    Teleport_Action=DOO
+    Planet_Select=DOO DOO
+    Surface_Teleport_Type=OOGA
+    Orbit_Teleport_Type=BOOGA
+    Teleport_Longitude=DOH
+    Teleport_Height=DOO DOO
+    Teleport_Orbit_Prograde=DOH
+    Teleport_Orbit_Retrograde=OOGA
+
+[Saving]
+# Blueprint stuff
+    Blueprints_Menu_Title=BOOGA
+    Unnamed_Blueprint=DOO DOO
+    Save_Blueprint=DOO OOGA
+    Load_Blueprint=DOO BOOGA
+    Cannot_Save_Empty_Build=DOH BOOGA OOGA DOO DOO
+
+# Quicksave stuff
+    Quicksaves_Menu_Title=OOGA
+    Unnamed_Quicksave=BOOGA DOH
+    Create_Quicksave=DOO DOH
+    Load_Quicksave=OOGA DOH
+
+# Save and load menus
+    Save=BOOGA
+    Load=DOH
+    Import=DOH
+    Delete=OOGA
+    Rename=OOGA
+    Create=OOGA
+    Delete_File_With_Type=DOO DOH OOGA
+
+# In progress
+    Saving_In_Progress=BOOGA
+    Loading_In_Progress=DOH
+    Importing_In_Progress=DOO
+
+# filetype (injected)
+    Blueprint=DOH
+    Quicksave=OOGA
+
+# Ask overwrite menu
+    File_Already_Exists=DOO OOGA DOO DOH OOGA BOOGA DOO
+    Overwrite_File=DOO BOOGA
+    New_File=BOOGA OOGA
+
+# Load failure
+    Load_Failed=DOO BOOGA DOO OOGA BOOGA DOO
+
+[Purchasing]
+    Open_Shop_Menu=DOO
+    Open_Shop_Button=DOO
+    Open_Shop_Menu_2=OOGA DOH
+
+    Expansions_List_Title=OOGA DOO DOO
+    Bundles_List_Title=OOGA
+
+    View_Details=DOO OOGA
+
+    Parts_Expansion=DOH OOGA
+    Expand_View_Button=DOH BOOGA
+    Redstone_Atlas_Pack=BOOGA BOOGA BOOGA
+    Skins_Expansion=BOOGA OOGA
+    Gas_Giants_Expansion=DOO BOOGA DOH
+    Ice_Giants_Expansion=BOOGA OOGA OOGA
+    Cheats_Expansion=BOOGA
+    Infinite_Area_Expansion=DOO OOGA DOH
+    Builder_Bundle=OOGA DOH
+    Sandbox_Bundle=DOH DOO
+    Full_Bundle=BOOGA DOO
+    Upgrade_To_Full_Bundle=BOOGA OOGA DOO BOOGA
+    Most_Popular_Purchase=OOGA OOGA
+    No_Connection=BOOGA OOGA
+
+    Mac_Full_Version=OOGA DOH
+    View_Part_Expansion=OOGA OOGA
+
+    Not_All_Parts_Are_Owned_Full_Version=BOOGA BOOGA DOO DOH BOOGA
+    Not_All_Parts_Are_Owned_Full_Version=DOH OOGA DOH DOO
+    Not_All_Parts_Are_Owned_Full_Version=
+    Not_All_Parts_Are_Owned_Full_Version=DOO DOH DOO
+
+    More_Parts=DOH DOH DOH
+    More_Skins=BOOGA OOGA BOOGA
+    Cannot_Use_Cheats_In_Career=OOGA DOH DOO OOGA DOO DOO BOOGA DOO DOO BOOGA
+    Get_Infinite_Build_Area_Button=DOH DOO DOO OOGA
+    Get_Cheats_Expansion_Button=BOOGA DOH OOGA
+
+    Buy_Product=DOH BOOGA OOGA
+
+    Timed_Sale_Text=DOO DOH
+    Timed_Sale_Text=DOO
+
+    Time_Upgrade_Text=BOOGA DOO OOGA BOOGA
+    Time_Upgrade_Text=DOH
+
+    Purchase_Thanks_Msg=OOGA BOOGA
+    Purchase_Thanks_Msg=
+    Purchase_Thanks_Msg=BOOGA BOOGA DOH OOGA
+    Purchase_Thanks_Msg=DOH DOH BOOGA DOO DOO BOOGA
+
+    Owned=DOO DOH
+    Restore_Open=OOGA DOO
+
+# Parts Expansion
+    PartsExpansion_Tanks=DOO OOGA DOH OOGA DOH
+    PartsExpansion_Engines=DOH DOO OOGA
+    PartsExpansion_Parts=DOO BOOGA OOGA DOO DOO DOH
+
+    PartsExpansion_Build=BOOGA OOGA DOH DOO OOGA
+    PartsExpansion_Build=OOGA BOOGA BOOGA DOH
+
+# Skins Expansion
+    SkinsExpansion_Tanks=DOH DOO OOGA OOGA DOH DOH BOOGA DOO DOO
+    SkinsExpansion_Interstages=DOO OOGA DOH BOOGA
+    SkinsExpansion_Nosecones=DOH BOOGA
+    SkinsExpansion_Fairings=DOH OOGA OOGA
+
+# Planets Expansion
+    PlanetsExpansion_Jupiter=BOOGA BOOGA DOO BOOGA DOH BOOGA
+    PlanetsExpansion_Jupiter=DOO OOGA OOGA OOGA DOO DOO DOO BOOGA OOGA DOH BOOGA OOGA BOOGA BOOGA
+
+    PlanetsExpansion_Saturn=OOGA DOH OOGA BOOGA OOGA OOGA OOGA OOGA BOOGA
+    PlanetsExpansion_SaturnMoons=DOO DOO BOOGA DOO DOO OOGA OOGA OOGA DOH DOO DOO DOO DOO
+
+    PlanetsExpansion_Uranus=DOO OOGA OOGA DOH OOGA DOH DOO OOGA BOOGA
+    PlanetsExpansion_Uranus=OOGA BOOGA OOGA BOOGA BOOGA BOOGA DOH BOOGA
+
+    PlanetsExpansion_Neptune=OOGA DOH DOH BOOGA DOH DOO OOGA DOH OOGA DOO DOO DOO BOOGA
+
+    PlanetsExpansion_Pluto=OOGA DOO DOO BOOGA OOGA DOO DOO
+    PlanetsExpansion_Pluto=DOO BOOGA BOOGA DOH OOGA OOGA DOO OOGA DOO OOGA DOO DOO
+
+# Full bundle
+    FullBundle_Description=DOH DOH DOH DOO DOH DOH BOOGA
+
+    GoogleSignIn=BOOGA
+    GoogleSignOut=OOGA
+    SignInForPurchaseRecovery=BOOGA OOGA DOH DOH DOH
+    CurrentGoogleAcc=DOH DOH
+    RecoveredPurchases=DOO DOH
+    PurchaseAddId=OOGA BOOGA
+    PurchaseAlreadyRegistered=DOH DOH DOO OOGA DOH DOO DOH
+    OrderNotFound=BOOGA DOH BOOGA OOGA DOO DOO BOOGA DOO OOGA OOGA BOOGA
+
+    OrderNotProcessed=DOH BOOGA OOGA DOO DOO DOH DOH
+    OrderNotProcessed=DOO OOGA DOO DOH OOGA
+
+    PurchaseNotConsumed=DOH DOO OOGA DOH DOH DOH DOO BOOGA DOO DOO
+    PurchaseNotConsumed=DOO DOH DOO BOOGA DOO BOOGA
+
+    RestoredSuccessfully=DOO BOOGA DOH OOGA BOOGA DOH DOH BOOGA BOOGA DOO
+    RestoredSuccessfully=DOO DOH DOO BOOGA BOOGA DOO
+
+[Sharing]
+    Share_Button=OOGA DOH
+    Upload_Blueprint_PC=DOO OOGA
+    Download_Blueprint_PC=OOGA OOGA
+    Share_Button_PC=DOO
+    Download_Confirm=OOGA
+    URL_Field_TextBox=DOO BOOGA
+    Empty_Upload=DOO DOH BOOGA DOH
+    Uploading_Message=DOO
+    Upload_Fail=DOH BOOGA DOO BOOGA
+    Copied_URL_To_Clipboard=DOO BOOGA OOGA OOGA BOOGA
+    Sharing_Enter_Prompt=DOO DOH DOH OOGA DOO DOH DOO DOH OOGA DOO
+    Must_Create_World_Download_BP=BOOGA BOOGA BOOGA BOOGA BOOGA BOOGA OOGA DOO
+    Confirm_Download_Button=DOO DOO
+    Downloading_Message=DOH
+    Download_Fail=OOGA BOOGA OOGA OOGA
+    URL_Invalid=OOGA DOH OOGA
+    Sharing_Connect_Fail=DOH DOH BOOGA BOOGA DOH OOGA
+
+[Settings Mobile]
+    Music_Name=DOH
+    Sound_Name=BOOGA
+    Screen_Rotation_Name=DOO BOOGA
+    FPS_Name=DOO
+    Language_Name=DOH
+    Menu_Scale=DOH BOOGA
+    Menu_Opacity=BOOGA BOOGA
+    Shakes_Name=DOO BOOGA
+    Orbit_Line_Count=DOO BOOGA DOH
+    Anti_Aliasing=OOGA
+    Set_Save_Location=DOH OOGA OOGA
+    Change_Save_Location=DOO OOGA DOH
+    Open_Save_Location=DOO DOO DOH
+
+    Current_Save_Location=DOH OOGA OOGA
+    Current_Save_Location=OOGA
+
+[Cheats]
+    Infinite_Build_Area_Name=BOOGA OOGA DOO
+    Part_Clipping_Name=DOO OOGA
+    Infinite_Fuel_Name=OOGA OOGA
+    No_Atmospheric_Drag_Name=DOO DOO OOGA
+    No_Collision_Damage_Name=DOH DOH DOH
+    No_Gravity_Name=BOOGA DOO
+    No_Heat_Damage_Name=DOO BOOGA DOO
+    No_Burn_Marks_Name=DOO BOOGA OOGA
+    Refill_Fuel_Tanks=OOGA DOO DOH
+    Refilled_Tanks=BOOGA DOO OOGA BOOGA
+    Unlock_Cheats_Button=BOOGA DOH
+
+    Unlock_Cheats_Warning=OOGA DOH DOH DOO DOH DOH DOH DOH DOO OOGA DOH
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=OOGA DOO DOH DOH
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=BOOGA DOH BOOGA OOGA BOOGA DOO DOO
+
+[Tutorials]
+
+    Tut_Drag_And_Drop=BOOGA DOH DOO DOH
+    Tut_Drag_And_Drop=OOGA BOOGA OOGA DOH
+
+    Tut_Part_Info=DOH BOOGA DOH
+    Tut_Part_Info=OOGA DOO
+
+    Tut_Use_Part=OOGA DOO BOOGA BOOGA DOH OOGA OOGA BOOGA
+    Tut_Use_Part=OOGA DOH DOO OOGA OOGA OOGA
+
+    Tut_Retry=BOOGA OOGA
+    Tut_Retry=DOO OOGA OOGA
+
+    Tut_Ignition=DOO
+
+    Tut_Throttle=OOGA DOH
+    Tut_Throttle=DOO DOH
+
+    Tut_Double_Click=DOH OOGA DOH DOO
+    Tut_Double_Click=OOGA DOH OOGA
+
+    Tut_Symmetry_Mode=OOGA DOO
+    Tut_Area_Select=DOH DOO DOH DOO DOO DOO
+
+    Tut_Stages=BOOGA DOH OOGA OOGA DOH
+    Tut_Stages=OOGA DOH OOGA DOO
+
+    Tut_Parachute=DOO OOGA DOH DOH
+    Tut_Parachute=OOGA BOOGA BOOGA OOGA
+    Tut_Parachute=DOH BOOGA OOGA BOOGA BOOGA
+
+    Tut_Capsule=DOH DOH OOGA
+    Tut_Capsule=OOGA DOH DOO DOH
+
+    Tut_Separator=BOOGA OOGA DOH
+    Tut_Separator=OOGA DOH DOH
+    Tut_Separator=DOH OOGA DOH BOOGA BOOGA
+
+    Tut_Fuel_Tanks=BOOGA OOGA
+    Tut_Rocket_Engines=BOOGA OOGA
+    Tut_Example_Rockets=BOOGA OOGA
+    Tut_Infinite_Area=DOH BOOGA OOGA OOGA DOH DOH OOGA
+
+    Tut_No_Fuel_Source=BOOGA BOOGA DOO
+    Tut_No_Fuel_Source=OOGA BOOGA
+
+[Hub]
+    Funds_Text=BOOGA DOO
+    Go_To_Space_Center=BOOGA BOOGA
+    Exit_To_Space_Center=BOOGA DOO DOO DOO
+    Research_And_Development=DOH OOGA BOOGA DOH
+    Challenges_Info=DOO DOH
+    Challenges_Button=DOH OOGA
+    Challenges_Title=DOO
+
+    Challenges_Completed=DOH OOGA
+    Challenges_Completed=DOO
+
+    This_Is_Challenging_Game=DOO DOH DOO DOH DOH BOOGA
+    This_Is_Challenging_Game=OOGA BOOGA DOO BOOGA
+
+    Rocket_Science_Is_Hard=DOO OOGA OOGA DOO
+    Dont_Give_Up=DOO BOOGA BOOGA DOO BOOGA OOGA DOO OOGA BOOGA
+    New_Part_Unlock_Available=DOH DOH BOOGA DOH DOO
+    Insufficient_Funds=DOH BOOGA
+
+[Build]
+    Build_New_Rocket=OOGA BOOGA BOOGA
+    New=BOOGA
+    Expand_Last_Rocket=DOH OOGA
+
+    Not_All_Parts_Owned=DOH DOH BOOGA BOOGA DOO
+    Not_All_Parts_Owned=OOGA DOH DOH DOO
+    Not_All_Parts_Owned=
+    Not_All_Parts_Owned=BOOGA DOO DOO
+
+    Symmetry_On=DOO BOOGA
+    Symmetry_Off=DOO DOO
+
+    Interior_View_On=DOO OOGA BOOGA
+    Interior_View_Off=DOH OOGA DOH
+
+    Launch_Button=OOGA
+    Move_Rocket_Button=OOGA OOGA
+
+# Clear build area
+    Clear_Warning=BOOGA DOH DOH
+    Clear_Confirm=BOOGA
+    Auto_Detach_Capsule=DOH DOO DOO
+
+# Launch warnings
+    Warnings_Title=BOOGA
+    Missing_Capsule=DOH DOO OOGA DOO OOGA DOO DOO DOO BOOGA OOGA
+    Missing_Parachute=DOO BOOGA OOGA OOGA OOGA
+    Missing_Heat_Shield=BOOGA DOH DOH BOOGA DOH DOO
+    Missing_Fuel_Popup=DOO BOOGA OOGA
+
+    Too_Heavy=OOGA DOO BOOGA DOH DOO DOO DOH
+    Too_Heavy=BOOGA
+    Too_Heavy=DOH
+
+    Launch_Anyway_Button=DOH DOH
+
+    Launch_Horizontally_Ask=DOH BOOGA
+    Launch_Horizontally_Confirm=BOOGA DOO
+    Launch_Vertically_Confirm=OOGA DOO
+
+# Example rockets
+    Example_Rockets_OpenMenu=BOOGA BOOGA
+    Basic_Rocket=DOH DOO
+    Stages=BOOGA DOH OOGA
+    Ideal_Stages=DOH BOOGA BOOGA
+    Lander=BOOGA BOOGA
+
+[Map]
+    Toggle_Map_Button=DOH
+    Escape=DOH
+    Encounter=BOOGA
+    Rendezvous=DOH
+    Transfer=OOGA BOOGA
+
+[Game]
+    Throttle_On=OOGA
+    Throttle_Off=BOOGA
+    Ignition=DOO
+    RCS=BOOGA
+    Rocket_Has_No_RCS=OOGA BOOGA DOH DOO DOO DOO
+
+# Game supports screen rotation, we split into 2 lines in vertical mode
+    Height_Terrain_Vertical=DOO BOOGA
+    Height_Terrain_Vertical=
+    Height_Terrain_Vertical=DOO
+
+    Height_Vertical=DOH
+    Height_Vertical=
+    Height_Vertical=DOO
+
+    Velocity_Vertical=OOGA
+    Velocity_Vertical=
+    Velocity_Vertical=OOGA
+
+    Velocity_Relative_Vertical=BOOGA DOH
+    Velocity_Relative_Vertical=
+    Velocity_Relative_Vertical=DOO
+
+    Distance_Relative_Vertical=BOOGA OOGA
+    Distance_Relative_Vertical=
+    Distance_Relative_Vertical=DOH
+
+    Angle_Vertical=BOOGA
+    Angle_Vertical=
+    Angle_Vertical=BOOGA DOH BOOGA
+
+    Height_Terrain_Horizontal=DOH DOO DOO
+    Height_Horizontal=OOGA DOH
+    Velocity_Horizontal=DOO DOH
+    Velocity_Relative_Horizontal=DOH OOGA DOO
+    Distance_Relative_Horizontal=DOO DOH OOGA
+    Angle_Horizontal=BOOGA BOOGA DOH DOH
+
+    Relative_Velocity_Arrow=BOOGA DOH
+    Relative_Velocity_Arrow=DOH
+
+    Side_Velocity_Arrow=DOH OOGA
+    Side_Velocity_Arrow=DOH
+
+    Forward_Velocity_Arrow=DOH
+    Forward_Velocity_Arrow=OOGA
+    Forward_Velocity_Arrow=
+    Forward_Velocity_Arrow=DOO
+    Forward_Velocity_Arrow=DOH
+
+[Failure menu]
+    Failure_Cause=OOGA DOH
+    Failure_Crash_Into_Rocket=BOOGA OOGA DOH DOO
+    Failure_Crash_Into_The_Ocean=DOO DOO DOO BOOGA
+    Failure_Burn_Up=DOO OOGA OOGA DOO
+
+[Dynamic_Planet_Specific]
+    Failure_Crash_Into_Terrain=DOO DOH OOGA DOH OOGA DOO
+    LandAndReturn_Title=BOOGA BOOGA
+    LandAndReturn=DOH DOO DOO DOH DOH OOGA OOGA DOH BOOGA
+    Survived_Reentry=DOH OOGA DOH BOOGA DOH BOOGA
+
+    Reached_Low_Orbit=DOH DOH BOOGA DOO
+    Reached_High_Orbit=OOGA OOGA BOOGA DOH
+    Descend_Low_Orbit=BOOGA DOO DOH BOOGA BOOGA
+    Capture_Low_Orbit=BOOGA DOH OOGA OOGA OOGA
+    Capture_High_Orbit=OOGA OOGA BOOGA DOH DOH
+
+    Entered_Lower_Atmosphere=OOGA DOO OOGA OOGA
+    Entered_Upper_Atmosphere=DOH OOGA DOH BOOGA
+    Left_Lower_Atmosphere=BOOGA OOGA BOOGA DOO
+    Left_Upper_Atmosphere=DOH OOGA DOO
+
+    Landed=OOGA DOH OOGA OOGA OOGA BOOGA
+
+    Landed_At_Landmark=DOO OOGA BOOGA DOO DOH DOH
+    Landed_At_Landmark=OOGA DOO
+
+    Landed_At_Landmark__Short=DOH DOO DOH DOH DOH OOGA
+    Landed_At_Landmark__Short=DOO DOO BOOGA
+
+    Crashed_Into_Terrain=BOOGA BOOGA BOOGA DOO BOOGA BOOGA
+
+    Entered_SOI=DOH BOOGA OOGA DOH OOGA OOGA DOO
+    Escaped_SOI=BOOGA BOOGA DOO DOH OOGA DOH DOH
+
+    Docked_Suborbital=DOO DOH OOGA OOGA DOO DOH DOO
+    Docked_Orbit_Low=OOGA OOGA OOGA DOO DOO
+    Docked_Orbit_Transfer=DOO DOO DOH OOGA OOGA BOOGA DOO
+    Docked_Orbit_High=DOO DOH BOOGA OOGA BOOGA
+    Docked_Escape=BOOGA DOO OOGA OOGA DOO BOOGA DOO
+    Docked_Surface=DOO OOGA BOOGA OOGA DOO BOOGA
+
+    Recover_Home=DOH DOO DOO BOOGA
+
+[End mission menu]
+    Recover_Rocket=DOH
+    Destroy_Rocket=BOOGA
+    Debris_Recover=DOH DOH
+    Debris_Destroy=OOGA DOH
+    Debris_Recover_Title=DOH OOGA
+    Debris_Destroy_Title=OOGA DOH
+    View_Mission_Log=DOO BOOGA OOGA
+
+# Restart menu
+    Restart_Mission_To_Launch_Warning=DOO
+    Restart_Mission_To_Launch_Warning=OOGA BOOGA BOOGA DOH OOGA DOH DOH BOOGA
+
+    Restart_Mission_To_Build_Warning=OOGA
+    Restart_Mission_To_Build_Warning=DOH OOGA DOH DOH DOO DOO BOOGA OOGA
+
+    Restart_Mission_To_Launch=OOGA BOOGA OOGA
+    Restart_Mission_To_Build=DOH BOOGA BOOGA
+    Revert_30_Secs=DOH DOO DOH
+    Revert_3_Min=BOOGA OOGA DOH
+
+# End mission menu
+    End_Challenges_Title=BOOGA BOOGA
+    End_Logs_Title=DOH DOH
+    Continue_To_Log=DOH
+    Back_To_Challenges=OOGA
+
+# Clear space junk/debris
+    Clear_Debris_Warning=BOOGA BOOGA
+    Clear_Debris_Warning=
+    Clear_Debris_Warning=BOOGA BOOGA BOOGA OOGA BOOGA BOOGA
+
+    Clear_Debris_Confirm=OOGA BOOGA
+
+# Select menu
+    Navigate_To=DOO DOH
+    End_Navigation=BOOGA BOOGA
+    Focus=DOH
+    Unfocus=DOH
+    Track=BOOGA
+    Stop_Tracking=DOH OOGA
+    Switch_To=DOO DOO
+
+[Rocket]
+    Default_Rocket_Name=DOO
+    No_Control_Msg=DOH OOGA
+
+[Timewarp]
+    Msg_Timewarp_Speed=OOGA BOOGA OOGA
+
+    Cannot_Timewarp_Below_Basic=DOH BOOGA DOH DOH
+    Cannot_Timewarp_Below=OOGA BOOGA OOGA BOOGA DOO BOOGA OOGA BOOGA
+    Cannot_Timewarp_While_Moving_On_Surface=DOH DOH OOGA OOGA BOOGA DOO DOO DOO DOO BOOGA
+    Cannot_Timewarp_While_Moving_Water=BOOGA DOO DOH OOGA DOH OOGA OOGA BOOGA BOOGA
+    Cannot_Timewarp_While_Accelerating=OOGA DOH DOO DOH DOO BOOGA BOOGA BOOGA
+    Cannot_Use_Part_While_Timewarping=DOO OOGA OOGA BOOGA OOGA
+    Cannot_Turn_While_Timewarping=OOGA BOOGA BOOGA OOGA
+
+    Timewarp_To_Button=OOGA BOOGA
+
+[Units]
+    Thrust_To_Weight_Ratio=OOGA DOH DOH OOGA
+    Mass=DOO DOO
+    Density=DOH BOOGA
+    Thrust=BOOGA DOH
+    Burn_Time=BOOGA DOH DOH
+    Efficiency=DOO OOGA BOOGA
+    Mass_Unit=DOO
+    Meter_Unit=DOO
+    Km_Unit=DOH
+    Meter_Per_Second_Unit=DOO
+
+[Timestamps]
+    Second_Short=BOOGA
+    Minute_Short=OOGA
+    Hour_Short=BOOGA
+    Day_Short=DOH
+
+[Resource Types]
+    Solid_Fuel=DOO DOH
+    Liquid_Fuel=DOO BOOGA
+
+[Resource Uses]
+    Resource_Bars_Title=OOGA
+    Info_Resource_Amount=DOH DOO
+    Msg_No_Resource_Source=OOGA BOOGA OOGA
+    Msg_No_Resource_Left=OOGA OOGA DOH
+
+[Part Categories]
+    Basic_Parts=OOGA
+    Six_Wide_Parts=DOH OOGA
+    Eight_Wide_Parts=BOOGA DOO
+    Ten_Wide_Parts=BOOGA OOGA
+    Twelve_Wide_Parts=DOO DOH
+    Engine_Parts=BOOGA
+    Aerodynamics_Parts=DOH
+    Fairings_Parts=BOOGA
+    Structural_Parts=BOOGA
+    Other_Parts=DOH
+    Redstone_Atlas=DOO DOH
+    Boosters=DOH
+
+[Part Names]
+    Capsule_Name=OOGA
+    Probe_Name=DOO
+    Parachute_Name=DOO
+
+    Kolibri_Engine_Name=OOGA BOOGA
+    Hawk_Engine_Name=OOGA BOOGA
+    Valiant_Engine_Name=DOO BOOGA
+    Titan_Engine_Name=DOH DOH
+    Frontier_Engine_Name=DOH OOGA
+    Peregrine_Engine_Name=DOH OOGA
+    Ion_Engine_Name=BOOGA BOOGA
+    RCS_Thruster_Name=DOO DOH
+
+    Solid_Rocket_Booster=DOO DOH DOO
+
+    Fuel_Tank_Name=DOH DOH
+    Separator_Name=BOOGA OOGA
+    Side_Separator_Name=DOO DOH
+    Structural_Part_Name=DOO DOO
+    Landing_Leg_Name=OOGA OOGA
+    Aerodynamic_Nose_Cone_Name=DOH DOO BOOGA
+    Aerodynamic_Fuselage_Name=DOH DOH
+    Fairing_Name=DOH
+    Rover_Wheel_Name=BOOGA DOO
+    Docking_Port_Name=OOGA BOOGA
+    Solar_Panel_Name=OOGA DOH
+    Battery_Name=OOGA
+    RTG_Name=BOOGA
+    Heat_Shield_Name=DOH OOGA
+    Fuel_Pipe_Name=DOO BOOGA
+    A_7_Engine_Name=DOO OOGA
+    Side_Cover_Name=OOGA OOGA
+    Cover_name=BOOGA
+    Fuselage_Name=DOH
+    LR_89_5_Engine_Name=BOOGA OOGA
+    LR_105_5_Engine_Name=BOOGA OOGA
+    Adapter_Name=BOOGA
+    Engine_Base_Name=DOO DOO
+    Retro_Pack_Name=DOO DOO
+    LES_Name=DOH DOO OOGA
+
+[Part Descriptions]
+    Capsule_Description=OOGA DOH DOO OOGA BOOGA OOGA
+    Probe_Description=DOO DOO DOH BOOGA BOOGA OOGA BOOGA OOGA
+    Parachute_Description=DOH DOH DOH BOOGA DOH
+    Fuel_Tank_Description=OOGA DOO OOGA OOGA DOH DOH BOOGA OOGA DOH
+    Separator_Description=DOO DOO DOO DOO DOH DOO DOO
+    Side_Separator_Description=DOH BOOGA DOH OOGA BOOGA OOGA DOO
+    Landing_Leg_Description=DOH DOH OOGA DOH DOO OOGA OOGA BOOGA DOO DOO BOOGA BOOGA DOO OOGA OOGA
+    Structural_Part_Description=OOGA DOH BOOGA OOGA DOH BOOGA
+    Hawk_Engine_Description=OOGA DOH OOGA OOGA DOH BOOGA DOO DOO OOGA DOO OOGA OOGA DOO BOOGA BOOGA DOH
+    Titan_Engine_Description=DOO BOOGA OOGA BOOGA BOOGA DOH OOGA OOGA DOO BOOGA BOOGA BOOGA DOO DOH DOO OOGA
+    Valiant_Engine_Description=BOOGA DOO OOGA DOH BOOGA OOGA OOGA BOOGA BOOGA BOOGA BOOGA OOGA DOO
+    Frontier_Engine_Description=BOOGA OOGA DOO BOOGA OOGA BOOGA DOO DOH OOGA BOOGA BOOGA DOO DOH
+    Kolibri_Engine_Description=DOO OOGA DOO DOO OOGA DOO
+    Ion_Engine_Description=DOH DOH DOH DOH OOGA DOO OOGA DOO DOH
+    RCS_Thruster_Description=DOO BOOGA OOGA DOO DOO DOH BOOGA BOOGA BOOGA
+
+    Booster_Description=DOO DOO DOH DOO DOH
+    Booster_Description=DOH DOO OOGA OOGA DOH DOH DOH BOOGA
+
+    Aerodynamic_Nose_Cone_Description=DOO DOH DOH BOOGA DOO OOGA BOOGA DOH OOGA DOO OOGA OOGA
+    Aerodynamic_Fuselage_Description=BOOGA OOGA BOOGA DOO DOO DOO DOO
+    Fairing_Description=BOOGA OOGA BOOGA DOO DOO DOH DOO
+    Battery_Description=BOOGA OOGA DOH BOOGA BOOGA OOGA DOH
+    Solar_Panel_Description=BOOGA OOGA BOOGA DOH BOOGA BOOGA BOOGA BOOGA
+    RTG_Description=DOO DOO BOOGA OOGA DOO
+    Rover_Wheel_Description=DOH BOOGA BOOGA DOO OOGA DOH DOH OOGA OOGA DOO
+    Docking_Port_Description=BOOGA OOGA BOOGA DOH BOOGA DOH DOH OOGA DOO DOH DOH OOGA
+    Heat_Shield_Description=OOGA DOH DOO DOH DOO OOGA DOO BOOGA DOH
+    Fuel_Pipe_Description=DOH DOO OOGA BOOGA BOOGA BOOGA
+
+[Modules]
+    Torque_Module_Torque=BOOGA OOGA
+    Separation_Force=DOO OOGA OOGA
+    Magnet_Force=DOH BOOGA OOGA
+
+    Max_Heat_Tolerance=BOOGA BOOGA DOO
+
+    State_On{0}=DOO
+    State_Off{0}=BOOGA
+
+    Engine_Module_State=BOOGA DOH
+    Engine_On_Label=DOO DOH
+    Gimbal_On_Label=DOH DOO
+
+    Booster_On=DOO OOGA
+    Booster_Off=DOH DOH
+    Cannot_Ignite_Covered_Booster=DOO DOH OOGA DOO DOH
+    Booster_Cannot_Be_Off=OOGA DOH BOOGA DOH OOGA DOH DOH BOOGA DOO
+
+    Msg_RCS_Module_State=DOO BOOGA
+
+    Wheel_Module_State=OOGA DOO DOO
+    Wheel_On_Label=BOOGA BOOGA
+
+    Panel_Expanded=OOGA
+    Landing_Leg_Expanded=BOOGA
+
+    Detach_Edges_Label=OOGA OOGA
+    Adapt_To_Tanks_Label=DOO DOO OOGA BOOGA
+
+    Info_Parachute_Max_Height=OOGA BOOGA DOO DOO
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=BOOGA DOO DOH BOOGA DOO DOH
+    Msg_Cannot_Deploy_Parachute_Above=DOO DOO DOH OOGA DOO
+    Msg_Cannot_Fully_Deploy_Above=DOH BOOGA OOGA DOO DOO BOOGA
+    Msg_Cannot_Deploy_Parachute_While_Faster=DOO DOH BOOGA DOO DOO OOGA OOGA OOGA
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=BOOGA DOO DOH BOOGA DOH BOOGA
+    Msg_Cannot_Deploy_Parachute_Under_Water=BOOGA OOGA BOOGA OOGA
+    Msg_Parachute_Half_Deployed=OOGA BOOGA BOOGA
+    Msg_Parachute_Fully_Deployed=DOH DOO OOGA
+    Msg_Parachute_Cut=BOOGA OOGA
+
+[Part Pick Categories]
+# Part Categories in Pick Part Menu
+    Part_Pick_Category_Aero=DOO
+    Part_Pick_Category_Parachutes=BOOGA
+    Part_Pick_Category_Engines=BOOGA
+    Part_Pick_Category_Structural=OOGA
+    Part_Pick_Category_Utility=DOH
+    Part_Pick_Category_Control=DOO
+    Part_Pick_Category_Landing=DOO
+    Part_Pick_Category_Electricity=BOOGA
+
+    Part_Pick_Category_Fuel=OOGA
+    Part_Pick_Category_Fuel=BOOGA
+
+    Part_Pick_Category_Fairings=DOO
+    Part_Pick_Category_Wheels=OOGA
+    Part_Pick_Category_Docking=BOOGA
+
+    Part_Pick_Category_Heat_Protection=DOH
+    Part_Pick_Category_Heat_Protection=BOOGA
+
+    Part_Pick_Category_Staging=DOO
+    Part_Pick_Category_Mounts=BOOGA
+
+[Planets]
+    Sun{0}=DOH
+    Sun{1}=BOOGA DOH
+    Sun{2}=BOOGA BOOGA
+    Mercury{0}=OOGA
+    Venus{0}=OOGA
+    Earth{0}=DOH
+    Earth{1}=DOH OOGA
+    Earth{2}=DOH OOGA
+    Earth{3}=DOO
+    Moon{0}=OOGA
+    Moon{1}=OOGA DOH
+    Moon{2}=OOGA BOOGA
+    Near_Earth_Asteroid{0}=BOOGA OOGA
+    Near_Earth_Asteroid{1}=BOOGA DOO DOO
+    Near_Earth_Asteroid{2}=DOO OOGA BOOGA
+    Mars{0}=BOOGA
+    Phobos{0}=OOGA
+    Deimos{0}=DOH
+    Ceres{0}=DOH
+    Jupiter{0}=DOH
+    Jupiter{1}=DOO
+    Jupiter{2}=OOGA
+    Jupiter{3}=DOH
+    Europa{0}=BOOGA
+    Ganymede{0}=DOO
+    Io{0}=DOO
+    Callisto{0}=OOGA
+    Thebe{0}=DOO
+    Thebe{1}=DOO
+    Thebe{2}=BOOGA
+    Thebe{3}=DOO
+    Saturn{0}=DOH
+    Saturn{1}=DOH
+    Saturn{2}=BOOGA
+    Saturn{3}=BOOGA
+    Pan{0}=DOH
+    Pan{1}=DOH
+    Pan{2}=DOH
+    Pan{3}=DOO
+    Enceladus{0}=DOH
+    Enceladus{1}=OOGA
+    Enceladus{2}=BOOGA
+    Enceladus{3}=DOH
+    Iapetus{0}=OOGA
+    Iapetus{1}=OOGA
+    Iapetus{2}=DOH
+    Iapetus{3}=OOGA
+    Titan{0}=BOOGA
+    Titan{1}=BOOGA
+    Titan{2}=OOGA
+    Titan{3}=BOOGA
+    Rhea{0}=OOGA
+    Rhea{1}=BOOGA
+    Rhea{2}=DOO
+    Rhea{3}=BOOGA
+    Tethys{0}=DOH
+    Tethys{1}=OOGA
+    Tethys{2}=DOO
+    Tethys{3}=DOO
+    Dione{0}=BOOGA
+    Dione{1}=OOGA
+    Dione{2}=DOO
+    Dione{3}=BOOGA
+    Mimas{0}=DOO
+    Mimas{1}=OOGA
+    Mimas{2}=DOO
+    Mimas{3}=BOOGA
+    Uranus{0}=DOH
+    Uranus{1}=BOOGA
+    Uranus{2}=DOO
+    Uranus{3}=OOGA
+    Miranda{0}=DOH
+    Miranda{1}=DOH
+    Miranda{2}=OOGA
+    Miranda{3}=DOH
+    Ariel{0}=BOOGA
+    Ariel{1}=OOGA
+    Ariel{2}=OOGA
+    Ariel{3}=OOGA
+    Titania{0}=DOO
+    Titania{1}=BOOGA
+    Titania{2}=BOOGA
+    Titania{3}=DOH
+    Umbriel{0}=BOOGA
+    Umbriel{1}=DOO
+    Umbriel{2}=DOH
+    Umbriel{3}=DOO
+    Oberon{0}=DOO
+    Oberon{1}=BOOGA
+    Oberon{2}=OOGA
+    Oberon{3}=OOGA
+    Puck{0}=DOH
+    Puck{1}=DOO
+    Puck{2}=DOO
+    Puck{3}=OOGA
+    Neptune{0}=DOH
+    Neptune{1}=BOOGA
+    Neptune{2}=DOO
+    Neptune{3}=DOH
+    Proteus{0}=BOOGA
+    Proteus{1}=OOGA
+    Proteus{2}=DOH
+    Proteus{3}=OOGA
+    Triton{0}=DOH
+    Triton{1}=DOO
+    Triton{2}=DOO
+    Triton{3}=BOOGA
+    Naiad{0}=DOH
+    Naiad{1}=OOGA
+    Naiad{2}=DOO
+    Naiad{3}=DOH
+    Pluto{0}=BOOGA
+    Pluto{1}=DOO
+    Pluto{2}=OOGA
+    Pluto{3}=DOH
+    Charon{0}=BOOGA
+    Charon{1}=DOH
+    Charon{2}=OOGA
+    Charon{3}=OOGA
+    Nix{0}=DOH
+    Nix{1}=BOOGA
+    Nix{2}=DOH
+    Nix{3}=BOOGA
+    Hydra{0}=OOGA
+    Hydra{1}=DOO
+    Hydra{2}=DOO
+    Hydra{3}=DOH
+
+[Landmarks]
+    Sea_of_Tranquility=OOGA DOO DOO
+    Sea_of_Serenity=OOGA DOO BOOGA
+    Ocean_of_Storms=BOOGA DOO OOGA
+    Copernicus_Crater=OOGA BOOGA
+    Tycho_Crater=BOOGA OOGA
+
+    Olympus_Mons=OOGA OOGA
+    Valles_Marineris=DOO OOGA
+    Gale_Crater=DOH OOGA
+    Hellas_Planitia=DOH OOGA
+    Arcadia_Planitia=DOH DOH
+    Utopia_Planitia=DOH OOGA
+    Jezero_Crater=DOO OOGA
+
+    Stickney_Crater=DOO DOO
+
+    Voltaire_Crater=BOOGA DOH
+    Swift_Crater=BOOGA OOGA
+
+    Atalanta_Planitia=BOOGA BOOGA
+    Lavinia_Planitia=OOGA BOOGA
+
+    Caloris_Planitia=OOGA OOGA
+    Borealis_Planitia=BOOGA BOOGA
+    Maxwell_Montes=BOOGA DOO
+
+    Laica_Crater=OOGA DOO
+    Kachina_Chasmata=DOO BOOGA
+
+    Urvara_Crater=DOO BOOGA
+    Kerwan_Crater=DOO DOO
+
+    Bosphorus_Regio=OOGA OOGA
+    Colchis_Regio=BOOGA OOGA
+    Chalybes_Regio=DOH OOGA
+
+    Conamara_Chaos=DOO BOOGA
+
+    Galileo_Regio=DOH BOOGA
+
+    Equatorial_Ridge=DOH BOOGA
+
+    Verona_Rupes=DOO DOH
+    Arden_Corona=DOO OOGA
+    Elsinore_Corona=DOO BOOGA
+
+    Mommur_Chasma=DOH DOO
+
+    Wunda_Crater=DOO BOOGA
+    Vuver_Crater=DOH OOGA
+    Skynd_Crater=DOO DOH
+
+    Telemachus=OOGA
+    Ithaca_Chasma=DOH DOH
+
+    Bogle_Crater=OOGA OOGA
+    Lob_Crater=BOOGA BOOGA
+    Butz_Crater=DOO BOOGA
+
+    Palatine_Chasmata=OOGA DOO
+    Evander_Crater=BOOGA DOH
+
+    Tirawa_Crater=OOGA DOH
+
+    Tiger_Stripes=BOOGA DOH
+
+    Senkyo_Ocean=BOOGA DOH
+    Fensal_Ocean=OOGA BOOGA
+    Shangri_La_Ocean=DOO DOH DOH
+
+    Bona_Chasma=DOO OOGA
+
+    Pharos_Crater=OOGA OOGA
+
+    Guttae=OOGA
+
+    Herschel_Crater=DOH DOH
+
+    Sputnik_Planitia=BOOGA DOO
+
+    Serenity_Chasma=DOO OOGA
+    Mordor_Macula=DOO BOOGA
+
+    Metztli_Crater=BOOGA BOOGA
+
+    Zethus_Crater=OOGA DOH
+
+[Challenges]
+    Liftoff_Title=DOH
+    Liftoff=BOOGA DOH DOO OOGA
+
+    Reach10km_Title=DOH DOH
+    Reach10km=BOOGA OOGA DOO BOOGA DOH
+
+    ReachSpace_Title=OOGA OOGA
+    ReachSpace=BOOGA OOGA DOO DOO DOO DOO DOO DOH
+
+    Land100kmDownrange_Title=DOO DOH DOO
+    Land100kmDownrange=DOO OOGA OOGA BOOGA DOO BOOGA DOO DOH OOGA
+
+    ReachLowEarthOrbit_Title=BOOGA DOH DOH DOO
+    ReachLowEarthOrbit=DOO DOH DOH BOOGA BOOGA DOH OOGA
+
+    ReachHighEarthOrbit_Title=DOO DOO DOH DOO
+    ReachHighEarthOrbit=DOO DOH BOOGA OOGA DOH OOGA OOGA
+
+    MoonOrbit_Title=DOO DOH
+    MoonOrbit=OOGA OOGA DOH BOOGA BOOGA DOH BOOGA DOO
+
+    MoonTour_Title=DOH OOGA
+    MoonTour=DOO BOOGA OOGA DOO DOH DOH OOGA DOH
+
+    AsteroidImpact_Title=BOOGA DOO
+    AsteroidImpact=DOO BOOGA BOOGA BOOGA DOH DOO OOGA DOH DOO DOH OOGA
+
+    MarsGrandTour_Title=DOO OOGA DOH
+    MarsGrandTour=BOOGA DOH DOH OOGA BOOGA BOOGA DOH DOO BOOGA OOGA DOO BOOGA
+
+    VenusLanding_Title=BOOGA DOO
+    VenusLanding=BOOGA DOH OOGA DOH DOO OOGA DOO OOGA DOO BOOGA DOO OOGA
+
+    VenusReturn_Title=DOO DOO
+    VenusReturn=OOGA DOO OOGA DOH DOH BOOGA BOOGA DOO DOH DOO BOOGA BOOGA DOO DOO DOO
+
+    MercuryLanding_Title=BOOGA DOH
+    MercuryLanding=DOO DOO DOH BOOGA OOGA OOGA
+
+    MercuryReturn_Title=BOOGA DOO
+    MercuryReturn=DOO DOO DOH DOO BOOGA OOGA DOO BOOGA BOOGA
+
+[Achievements]
+    Reached_Karman_Line=DOH BOOGA BOOGA OOGA DOO OOGA OOGA DOH DOO BOOGA
+    Reached_Height=OOGA DOH OOGA
+
+[Mod Loader]
+    Mods_Button=OOGA
+    Mods_Still_Loading=OOGA DOO DOH DOH
+    ModType_Label=DOO BOOGA
+    Version_Label=DOO OOGA
+    CodeMod_Name=DOO BOOGA
+    PartAssetPack_Name=DOO BOOGA BOOGA
+    TexturePack_Name=DOH DOO DOH
+    SolarSystemPack_Name=BOOGA DOO OOGA
+    CodeModNotAllowedOnMobile=DOO BOOGA OOGA OOGA BOOGA DOO OOGA DOO OOGA OOGA OOGA OOGA DOO BOOGA BOOGA DOO DOH
+    Author_Label=DOH DOO
+    Changes_Warning=DOO BOOGA BOOGA BOOGA DOO OOGA OOGA BOOGA OOGA BOOGA OOGA OOGA DOO DOO
+    Relaunch=OOGA
+
+    Set_ModsFolder_Question=DOH OOGA DOH DOO BOOGA DOH DOH OOGA BOOGA DOH BOOGA DOO OOGA OOGA
+    Set_ModsFolder_Question=DOO DOH BOOGA DOH DOO BOOGA DOO OOGA DOO DOH
+
+    Lost_Access_Mods=DOH OOGA OOGA OOGA OOGA BOOGA OOGA DOO
+    Lost_Access_Mods=DOH DOH DOO BOOGA OOGA DOH DOH DOH OOGA
+    Lost_Access_Mods=OOGA DOH DOH BOOGA DOH OOGA
+
+    Set_ModsFolder_Continue=DOO
+
+    Set_ModsFolder_Confirm_Copy=DOO OOGA BOOGA BOOGA BOOGA BOOGA OOGA OOGA BOOGA
+    Set_ModsFolder_Confirm_Copy=DOH
+    Set_ModsFolder_Confirm_Copy=DOH
+    Set_ModsFolder_Confirm_Copy=DOO
+    Set_ModsFolder_Confirm_Copy=DOH DOH DOO DOH BOOGA DOH DOH DOH DOH DOO DOO OOGA OOGA
+
+[Notifications]
+    Notify_For_New_Releases=DOH DOO DOH OOGA DOO DOO DOO OOGA DOH
+    Notify_Me=BOOGA BOOGA

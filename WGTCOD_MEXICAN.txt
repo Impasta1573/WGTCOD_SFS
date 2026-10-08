@@ -1,0 +1,1110 @@
+[None]
+    None=Nacho
+    Font=Taco
+
+[General]
+    Cancel=Chimichanga
+    Close=Burrito
+
+    On=Tamale
+    Off=Pozole
+
+    Open_Settings_Button=Enchilada
+    Open_Cheats_Button=Guacamole
+    Help=Quesadilla
+
+    Build_Rocket=Mole Gordita
+    Resume_Game=Flauta Ceviche
+    Return_To_Main_Menu=Miga Machaca
+    Exit_To_Main_Menu=Nacho Taco Chimichanga Burrito
+
+[Main Menu]
+    Play=Tamale
+
+    Video_Tutorials_OpenButton=Pozole Enchilada
+    Video_Orbit=Guacamole Quesadilla
+    Video_Moon=Mole Gordita
+    Video_Dock=Flauta Ceviche
+
+    Development_Blog=Miga Machaca
+
+    Mod_Loader_OpenButton=Nacho Taco
+    Download_Mods=Chimichanga Burrito
+    Open_Mods_Folder=Tamale Pozole Enchilada
+
+    Community_OpenButton=Guacamole
+    Community_Youtube=Quesadilla
+    Community_Discord=Mole
+    Community_Reddit=Gordita
+    Community_Forums=Flauta
+
+    Credits_OpenButton=Ceviche
+
+    Credits_Text=Miga Machaca Nacho Taco Chimichanga
+    Credits_Text=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+    Credits_Text=
+    Credits_Text=Gordita Flauta Ceviche Miga Machaca Nacho
+    Credits_Text=Taco Chimichanga Burrito
+    Credits_Text=
+    Credits_Text=Tamale Pozole Enchilada Guacamole
+    Credits_Text=Quesadilla Mole Gordita
+    Credits_Text=
+    Credits_Text=Flauta Ceviche Miga
+    Credits_Text=Machaca Nacho Taco
+    Credits_Text=
+    Credits_Text=Chimichanga Burrito Tamale Pozole
+    Credits_Text=Enchilada Guacamole Quesadilla
+    Credits_Text=
+    Credits_Text=Mole Gordita Flauta Ceviche
+    Credits_Text=Miga Machaca Nacho
+    Credits_Text=
+    Credits_Text=Taco Chimichanga Burrito Tamale
+    Credits_Text=Pozole Enchilada Guacamole
+    Credits_Text=
+    Credits_Text=Quesadilla Mole Gordita Flauta
+    Credits_Text=Ceviche Miga Machaca
+    Credits_Text=
+    Credits_Text=Nacho Taco Chimichanga Burrito
+    Credits_Text=Tamale Pozole Enchilada
+
+    First_Time_Playing_Question=Guacamole Quesadilla Mole
+    First_Time_Playing_Question=Gordita Flauta
+
+    First_Time_Playing_Yes=Ceviche Miga Machaca
+    First_Time_Playing_No=Nacho Taco
+
+    Update_Available=Chimichanga Burrito Tamale Pozole Enchilada
+    Update_Available=
+    Update_Available=Guacamole Quesadilla Mole
+    Update_Available=Gordita Flauta Ceviche
+
+    Update_Confirm=Miga
+
+    Rate_Title=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+    Rate_Title=
+    Rate_Title=Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+    Rate_Title=
+    Rate_Title=Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+
+    Rate_Confirm=Enchilada
+
+    Exit_Button=Guacamole
+    Close_Game=Quesadilla Mole
+    Follow_Development=Gordita Flauta
+
+[Worlds Menu]
+    Create_New_World_Button=Ceviche Miga Machaca
+    World_Delete=Nacho Taco
+
+# Create menu
+    Create_World_Title=Chimichanga Burrito
+    Default_World_Name=Tamale Pozole
+    Select_Solar_System=Enchilada Guacamole Quesadilla Mole
+
+    Select_Solar_System__NotFound=Gordita Flauta Ceviche Miga Machaca Nacho
+    Select_Solar_System__NotFound=Taco
+    Select_Solar_System__NotFound=
+    Select_Solar_System__NotFound=Chimichanga Burrito Tamale Pozole Enchilada
+
+    Default_Solar_System=Guacamole Quesadilla Mole
+    Custom_Solar_System=Gordita Flauta
+
+# World info
+    World_Mode_Name=Ceviche Miga
+    Mode_Sandbox=Machaca
+    Mode_Challenge=Nacho
+    Mode_Career=Taco
+
+    Allow_Cheats_Name=Chimichanga Burrito Tamale
+    Allow_Cheats_Label=Pozole Enchilada
+
+    Allow_Quicksaves_Name=Guacamole Quesadilla Mole
+    Allow_Quicksaves_Label=Gordita Flauta
+
+    World_Difficulty_Name=Ceviche Miga
+    Difficulty_Easy=Machaca
+    Difficulty_Normal=Nacho
+    Difficulty_Hard=Taco
+    Difficulty_Medium=Chimichanga
+    Difficulty_Extreme=Burrito
+    Difficulty_Realistic=Tamale
+
+    World_SolarSystem_Name=Pozole Enchilada Guacamole
+
+    Last_Played=Quesadilla Mole Gordita Flauta
+    Just_Played=Ceviche Miga Machaca Nacho Taco
+    Time_Played=Chimichanga Burrito
+
+[World Create Menu]
+    World_Create_Title=Tamale Pozole
+    World_Name_Label=Enchilada Guacamole
+    Solar_System_Label=Quesadilla Mole
+    Mode_Label=Gordita
+    Difficulty_Label=Flauta
+
+[Teleport Menu]
+    Teleport_Cheat=Ceviche
+    Teleport_Action=Miga
+    Planet_Select=Machaca Nacho
+    Surface_Teleport_Type=Taco
+    Orbit_Teleport_Type=Chimichanga
+    Teleport_Longitude=Burrito
+    Teleport_Height=Tamale Pozole
+    Teleport_Orbit_Prograde=Enchilada
+    Teleport_Orbit_Retrograde=Guacamole
+
+[Saving]
+# Blueprint stuff
+    Blueprints_Menu_Title=Quesadilla
+    Unnamed_Blueprint=Mole Gordita
+    Save_Blueprint=Flauta Ceviche
+    Load_Blueprint=Miga Machaca
+    Cannot_Save_Empty_Build=Nacho Taco Chimichanga Burrito Tamale
+
+# Quicksave stuff
+    Quicksaves_Menu_Title=Pozole
+    Unnamed_Quicksave=Enchilada Guacamole
+    Create_Quicksave=Quesadilla Mole
+    Load_Quicksave=Gordita Flauta
+
+# Save and load menus
+    Save=Ceviche
+    Load=Miga
+    Import=Machaca
+    Delete=Nacho
+    Rename=Taco
+    Create=Chimichanga
+    Delete_File_With_Type=Burrito Tamale Pozole
+
+# In progress
+    Saving_In_Progress=Enchilada
+    Loading_In_Progress=Guacamole
+    Importing_In_Progress=Quesadilla
+
+# filetype (injected)
+    Blueprint=Mole
+    Quicksave=Gordita
+
+# Ask overwrite menu
+    File_Already_Exists=Flauta Ceviche Miga Machaca Nacho Taco Chimichanga
+    Overwrite_File=Burrito Tamale
+    New_File=Pozole Enchilada
+
+# Load failure
+    Load_Failed=Guacamole Quesadilla Mole Gordita Flauta Ceviche
+
+[Purchasing]
+    Open_Shop_Menu=Miga
+    Open_Shop_Button=Machaca
+    Open_Shop_Menu_2=Nacho Taco
+
+    Expansions_List_Title=Chimichanga Burrito Tamale
+    Bundles_List_Title=Pozole
+
+    View_Details=Enchilada Guacamole
+
+    Parts_Expansion=Quesadilla Mole
+    Expand_View_Button=Gordita Flauta
+    Redstone_Atlas_Pack=Ceviche Miga Machaca
+    Skins_Expansion=Nacho Taco
+    Gas_Giants_Expansion=Chimichanga Burrito Tamale
+    Ice_Giants_Expansion=Pozole Enchilada Guacamole
+    Cheats_Expansion=Quesadilla
+    Infinite_Area_Expansion=Mole Gordita Flauta
+    Builder_Bundle=Ceviche Miga
+    Sandbox_Bundle=Machaca Nacho
+    Full_Bundle=Taco Chimichanga
+    Upgrade_To_Full_Bundle=Burrito Tamale Pozole Enchilada
+    Most_Popular_Purchase=Guacamole Quesadilla
+    No_Connection=Mole Gordita
+
+    Mac_Full_Version=Flauta Ceviche
+    View_Part_Expansion=Miga Machaca
+
+    Not_All_Parts_Are_Owned_Full_Version=Nacho Taco Chimichanga Burrito Tamale
+    Not_All_Parts_Are_Owned_Full_Version=Pozole Enchilada Guacamole Quesadilla
+    Not_All_Parts_Are_Owned_Full_Version=
+    Not_All_Parts_Are_Owned_Full_Version=Mole Gordita Flauta
+
+    More_Parts=Ceviche Miga Machaca
+    More_Skins=Nacho Taco Chimichanga
+    Cannot_Use_Cheats_In_Career=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+    Get_Infinite_Build_Area_Button=Miga Machaca Nacho Taco
+    Get_Cheats_Expansion_Button=Chimichanga Burrito Tamale
+
+    Buy_Product=Pozole Enchilada Guacamole
+
+    Timed_Sale_Text=Quesadilla Mole
+    Timed_Sale_Text=Gordita
+
+    Time_Upgrade_Text=Flauta Ceviche Miga Machaca
+    Time_Upgrade_Text=Nacho
+
+    Purchase_Thanks_Msg=Taco Chimichanga
+    Purchase_Thanks_Msg=
+    Purchase_Thanks_Msg=Burrito Tamale Pozole Enchilada
+    Purchase_Thanks_Msg=Guacamole Quesadilla Mole Gordita Flauta Ceviche
+
+    Owned=Miga Machaca
+    Restore_Open=Nacho Taco
+
+# Parts Expansion
+    PartsExpansion_Tanks=Chimichanga Burrito Tamale Pozole Enchilada
+    PartsExpansion_Engines=Guacamole Quesadilla Mole
+    PartsExpansion_Parts=Gordita Flauta Ceviche Miga Machaca Nacho
+
+    PartsExpansion_Build=Taco Chimichanga Burrito Tamale Pozole
+    PartsExpansion_Build=Enchilada Guacamole Quesadilla Mole
+
+# Skins Expansion
+    SkinsExpansion_Tanks=Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito
+    SkinsExpansion_Interstages=Tamale Pozole Enchilada Guacamole
+    SkinsExpansion_Nosecones=Quesadilla Mole
+    SkinsExpansion_Fairings=Gordita Flauta Ceviche
+
+# Planets Expansion
+    PlanetsExpansion_Jupiter=Miga Machaca Nacho Taco Chimichanga Burrito
+    PlanetsExpansion_Jupiter=Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga
+
+    PlanetsExpansion_Saturn=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta
+    PlanetsExpansion_SaturnMoons=Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+
+    PlanetsExpansion_Uranus=Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito
+    PlanetsExpansion_Uranus=Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta
+
+    PlanetsExpansion_Neptune=Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+
+    PlanetsExpansion_Pluto=Gordita Flauta Ceviche Miga Machaca Nacho Taco
+    PlanetsExpansion_Pluto=Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+
+# Full bundle
+    FullBundle_Description=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+
+    GoogleSignIn=Enchilada
+    GoogleSignOut=Guacamole
+    SignInForPurchaseRecovery=Quesadilla Mole Gordita Flauta Ceviche
+    CurrentGoogleAcc=Miga Machaca
+    RecoveredPurchases=Nacho Taco
+    PurchaseAddId=Chimichanga Burrito
+    PurchaseAlreadyRegistered=Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita
+    OrderNotFound=Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada
+
+    OrderNotProcessed=Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    OrderNotProcessed=Machaca Nacho Taco Chimichanga Burrito
+
+    PurchaseNotConsumed=Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    PurchaseNotConsumed=Machaca Nacho Taco Chimichanga Burrito Tamale
+
+    RestoredSuccessfully=Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca
+    RestoredSuccessfully=Nacho Taco Chimichanga Burrito Tamale Pozole
+
+[Sharing]
+    Share_Button=Enchilada Guacamole
+    Upload_Blueprint_PC=Quesadilla Mole
+    Download_Blueprint_PC=Gordita Flauta
+    Share_Button_PC=Ceviche
+    Download_Confirm=Miga
+    URL_Field_TextBox=Machaca Nacho
+    Empty_Upload=Taco Chimichanga Burrito Tamale
+    Uploading_Message=Pozole
+    Upload_Fail=Enchilada Guacamole Quesadilla Mole
+    Copied_URL_To_Clipboard=Gordita Flauta Ceviche Miga Machaca
+    Sharing_Enter_Prompt=Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+    Must_Create_World_Download_BP=Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga
+    Confirm_Download_Button=Burrito Tamale
+    Downloading_Message=Pozole
+    Download_Fail=Enchilada Guacamole Quesadilla Mole
+    URL_Invalid=Gordita Flauta Ceviche
+    Sharing_Connect_Fail=Miga Machaca Nacho Taco Chimichanga Burrito
+
+[Settings Mobile]
+    Music_Name=Tamale
+    Sound_Name=Pozole
+    Screen_Rotation_Name=Enchilada Guacamole
+    FPS_Name=Quesadilla
+    Language_Name=Mole
+    Menu_Scale=Gordita Flauta
+    Menu_Opacity=Ceviche Miga
+    Shakes_Name=Machaca Nacho
+    Orbit_Line_Count=Taco Chimichanga Burrito
+    Anti_Aliasing=Tamale
+    Set_Save_Location=Pozole Enchilada Guacamole
+    Change_Save_Location=Quesadilla Mole Gordita
+    Open_Save_Location=Flauta Ceviche Miga
+
+    Current_Save_Location=Machaca Nacho Taco
+    Current_Save_Location=Chimichanga
+
+[Cheats]
+    Infinite_Build_Area_Name=Burrito Tamale Pozole
+    Part_Clipping_Name=Enchilada Guacamole
+    Infinite_Fuel_Name=Quesadilla Mole
+    No_Atmospheric_Drag_Name=Gordita Flauta Ceviche
+    No_Collision_Damage_Name=Miga Machaca Nacho
+    No_Gravity_Name=Taco Chimichanga
+    No_Heat_Damage_Name=Burrito Tamale Pozole
+    No_Burn_Marks_Name=Enchilada Guacamole Quesadilla
+    Refill_Fuel_Tanks=Mole Gordita Flauta
+    Refilled_Tanks=Ceviche Miga Machaca Nacho
+    Unlock_Cheats_Button=Taco Chimichanga
+
+    Unlock_Cheats_Warning=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=Machaca Nacho Taco Chimichanga
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+
+[Tutorials]
+
+    Tut_Drag_And_Drop=Gordita Flauta Ceviche Miga
+    Tut_Drag_And_Drop=Machaca Nacho Taco Chimichanga
+
+    Tut_Part_Info=Burrito Tamale Pozole
+    Tut_Part_Info=Enchilada Guacamole
+
+    Tut_Use_Part=Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho
+    Tut_Use_Part=Taco Chimichanga Burrito Tamale Pozole Enchilada
+
+    Tut_Retry=Guacamole Quesadilla
+    Tut_Retry=Mole Gordita Flauta
+
+    Tut_Ignition=Ceviche
+
+    Tut_Throttle=Miga Machaca
+    Tut_Throttle=Nacho Taco
+
+    Tut_Double_Click=Chimichanga Burrito Tamale Pozole
+    Tut_Double_Click=Enchilada Guacamole Quesadilla
+
+    Tut_Symmetry_Mode=Mole Gordita
+    Tut_Area_Select=Flauta Ceviche Miga Machaca Nacho Taco
+
+    Tut_Stages=Chimichanga Burrito Tamale Pozole Enchilada
+    Tut_Stages=Guacamole Quesadilla Mole Gordita
+
+    Tut_Parachute=Flauta Ceviche Miga Machaca
+    Tut_Parachute=Nacho Taco Chimichanga Burrito
+    Tut_Parachute=Tamale Pozole Enchilada Guacamole Quesadilla
+
+    Tut_Capsule=Mole Gordita Flauta
+    Tut_Capsule=Ceviche Miga Machaca Nacho
+
+    Tut_Separator=Taco Chimichanga Burrito
+    Tut_Separator=Tamale Pozole Enchilada
+    Tut_Separator=Guacamole Quesadilla Mole Gordita Flauta
+
+    Tut_Fuel_Tanks=Ceviche Miga
+    Tut_Rocket_Engines=Machaca Nacho
+    Tut_Example_Rockets=Taco Chimichanga
+    Tut_Infinite_Area=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+
+    Tut_No_Fuel_Source=Gordita Flauta Ceviche
+    Tut_No_Fuel_Source=Miga Machaca
+
+[Hub]
+    Funds_Text=Nacho Taco
+    Go_To_Space_Center=Chimichanga Burrito
+    Exit_To_Space_Center=Tamale Pozole Enchilada Guacamole
+    Research_And_Development=Quesadilla Mole Gordita Flauta
+    Challenges_Info=Ceviche Miga
+    Challenges_Button=Machaca Nacho
+    Challenges_Title=Taco
+
+    Challenges_Completed=Chimichanga Burrito
+    Challenges_Completed=Tamale
+
+    This_Is_Challenging_Game=Pozole Enchilada Guacamole Quesadilla Mole Gordita
+    This_Is_Challenging_Game=Flauta Ceviche Miga Machaca
+
+    Rocket_Science_Is_Hard=Nacho Taco Chimichanga Burrito
+    Dont_Give_Up=Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+    New_Part_Unlock_Available=Miga Machaca Nacho Taco Chimichanga
+    Insufficient_Funds=Burrito Tamale
+
+[Build]
+    Build_New_Rocket=Pozole Enchilada Guacamole
+    New=Quesadilla
+    Expand_Last_Rocket=Mole Gordita
+
+    Not_All_Parts_Owned=Flauta Ceviche Miga Machaca Nacho
+    Not_All_Parts_Owned=Taco Chimichanga Burrito Tamale
+    Not_All_Parts_Owned=
+    Not_All_Parts_Owned=Pozole Enchilada Guacamole
+
+    Symmetry_On=Quesadilla Mole
+    Symmetry_Off=Gordita Flauta
+
+    Interior_View_On=Ceviche Miga Machaca
+    Interior_View_Off=Nacho Taco Chimichanga
+
+    Launch_Button=Burrito
+    Move_Rocket_Button=Tamale Pozole
+
+# Clear build area
+    Clear_Warning=Enchilada Guacamole Quesadilla
+    Clear_Confirm=Mole
+    Auto_Detach_Capsule=Gordita Flauta Ceviche
+
+# Launch warnings
+    Warnings_Title=Miga
+    Missing_Capsule=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla
+    Missing_Parachute=Mole Gordita Flauta Ceviche Miga
+    Missing_Heat_Shield=Machaca Nacho Taco Chimichanga Burrito Tamale
+    Missing_Fuel_Popup=Pozole Enchilada Guacamole
+
+    Too_Heavy=Quesadilla Mole Gordita Flauta Ceviche Miga Machaca
+    Too_Heavy=Nacho
+    Too_Heavy=Taco
+
+    Launch_Anyway_Button=Chimichanga Burrito
+
+    Launch_Horizontally_Ask=Tamale Pozole
+    Launch_Horizontally_Confirm=Enchilada Guacamole
+    Launch_Vertically_Confirm=Quesadilla Mole
+
+# Example rockets
+    Example_Rockets_OpenMenu=Gordita Flauta
+    Basic_Rocket=Ceviche Miga
+    Stages=Machaca Nacho Taco
+    Ideal_Stages=Chimichanga Burrito Tamale
+    Lander=Pozole Enchilada
+
+[Map]
+    Toggle_Map_Button=Guacamole
+    Escape=Quesadilla
+    Encounter=Mole
+    Rendezvous=Gordita
+    Transfer=Flauta Ceviche
+
+[Game]
+    Throttle_On=Miga
+    Throttle_Off=Machaca
+    Ignition=Nacho
+    RCS=Taco
+    Rocket_Has_No_RCS=Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+
+# Game supports screen rotation, we split into 2 lines in vertical mode
+    Height_Terrain_Vertical=Quesadilla Mole
+    Height_Terrain_Vertical=
+    Height_Terrain_Vertical=Gordita
+
+    Height_Vertical=Flauta
+    Height_Vertical=
+    Height_Vertical=Ceviche
+
+    Velocity_Vertical=Miga
+    Velocity_Vertical=
+    Velocity_Vertical=Machaca
+
+    Velocity_Relative_Vertical=Nacho Taco
+    Velocity_Relative_Vertical=
+    Velocity_Relative_Vertical=Chimichanga
+
+    Distance_Relative_Vertical=Burrito Tamale
+    Distance_Relative_Vertical=
+    Distance_Relative_Vertical=Pozole
+
+    Angle_Vertical=Enchilada
+    Angle_Vertical=
+    Angle_Vertical=Guacamole Quesadilla Mole
+
+    Height_Terrain_Horizontal=Gordita Flauta Ceviche
+    Height_Horizontal=Miga Machaca
+    Velocity_Horizontal=Nacho Taco
+    Velocity_Relative_Horizontal=Chimichanga Burrito Tamale
+    Distance_Relative_Horizontal=Pozole Enchilada Guacamole
+    Angle_Horizontal=Quesadilla Mole Gordita Flauta
+
+    Relative_Velocity_Arrow=Ceviche Miga
+    Relative_Velocity_Arrow=Machaca
+
+    Side_Velocity_Arrow=Nacho Taco
+    Side_Velocity_Arrow=Chimichanga
+
+    Forward_Velocity_Arrow=Burrito
+    Forward_Velocity_Arrow=Tamale
+    Forward_Velocity_Arrow=
+    Forward_Velocity_Arrow=Pozole
+    Forward_Velocity_Arrow=Enchilada
+
+[Failure menu]
+    Failure_Cause=Guacamole Quesadilla
+    Failure_Crash_Into_Rocket=Mole Gordita Flauta Ceviche
+    Failure_Crash_Into_The_Ocean=Miga Machaca Nacho Taco
+    Failure_Burn_Up=Chimichanga Burrito Tamale Pozole
+
+[Dynamic_Planet_Specific]
+    Failure_Crash_Into_Terrain=Enchilada Guacamole Quesadilla Mole Gordita Flauta
+    LandAndReturn_Title=Ceviche Miga
+    LandAndReturn=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+    Survived_Reentry=Quesadilla Mole Gordita Flauta Ceviche Miga
+
+    Reached_Low_Orbit=Machaca Nacho Taco Chimichanga
+    Reached_High_Orbit=Burrito Tamale Pozole Enchilada
+    Descend_Low_Orbit=Guacamole Quesadilla Mole Gordita Flauta
+    Capture_Low_Orbit=Ceviche Miga Machaca Nacho Taco
+    Capture_High_Orbit=Chimichanga Burrito Tamale Pozole Enchilada
+
+    Entered_Lower_Atmosphere=Guacamole Quesadilla Mole Gordita
+    Entered_Upper_Atmosphere=Flauta Ceviche Miga Machaca
+    Left_Lower_Atmosphere=Nacho Taco Chimichanga Burrito
+    Left_Upper_Atmosphere=Tamale Pozole Enchilada
+
+    Landed=Guacamole Quesadilla Mole Gordita Flauta Ceviche
+
+    Landed_At_Landmark=Miga Machaca Nacho Taco Chimichanga Burrito
+    Landed_At_Landmark=Tamale Pozole
+
+    Landed_At_Landmark__Short=Enchilada Guacamole Quesadilla Mole Gordita Flauta
+    Landed_At_Landmark__Short=Ceviche Miga Machaca
+
+    Crashed_Into_Terrain=Nacho Taco Chimichanga Burrito Tamale Pozole
+
+    Entered_SOI=Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+    Escaped_SOI=Miga Machaca Nacho Taco Chimichanga Burrito Tamale
+
+    Docked_Suborbital=Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta
+    Docked_Orbit_Low=Ceviche Miga Machaca Nacho Taco
+    Docked_Orbit_Transfer=Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla
+    Docked_Orbit_High=Mole Gordita Flauta Ceviche Miga
+    Docked_Escape=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+    Docked_Surface=Enchilada Guacamole Quesadilla Mole Gordita Flauta
+
+    Recover_Home=Ceviche Miga Machaca Nacho
+
+[End mission menu]
+    Recover_Rocket=Taco
+    Destroy_Rocket=Chimichanga
+    Debris_Recover=Burrito Tamale
+    Debris_Destroy=Pozole Enchilada
+    Debris_Recover_Title=Guacamole Quesadilla
+    Debris_Destroy_Title=Mole Gordita
+    View_Mission_Log=Flauta Ceviche Miga
+
+# Restart menu
+    Restart_Mission_To_Launch_Warning=Machaca
+    Restart_Mission_To_Launch_Warning=Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+
+    Restart_Mission_To_Build_Warning=Quesadilla
+    Restart_Mission_To_Build_Warning=Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco
+
+    Restart_Mission_To_Launch=Chimichanga Burrito Tamale
+    Restart_Mission_To_Build=Pozole Enchilada Guacamole
+    Revert_30_Secs=Quesadilla Mole Gordita
+    Revert_3_Min=Flauta Ceviche Miga
+
+# End mission menu
+    End_Challenges_Title=Machaca Nacho
+    End_Logs_Title=Taco Chimichanga
+    Continue_To_Log=Burrito
+    Back_To_Challenges=Tamale
+
+# Clear space junk/debris
+    Clear_Debris_Warning=Pozole Enchilada
+    Clear_Debris_Warning=
+    Clear_Debris_Warning=Guacamole Quesadilla Mole Gordita Flauta Ceviche
+
+    Clear_Debris_Confirm=Miga Machaca
+
+# Select menu
+    Navigate_To=Nacho Taco
+    End_Navigation=Chimichanga Burrito
+    Focus=Tamale
+    Unfocus=Pozole
+    Track=Enchilada
+    Stop_Tracking=Guacamole Quesadilla
+    Switch_To=Mole Gordita
+
+[Rocket]
+    Default_Rocket_Name=Flauta
+    No_Control_Msg=Ceviche Miga
+
+[Timewarp]
+    Msg_Timewarp_Speed=Machaca Nacho Taco
+
+    Cannot_Timewarp_Below_Basic=Chimichanga Burrito Tamale Pozole
+    Cannot_Timewarp_Below=Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    Cannot_Timewarp_While_Moving_On_Surface=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla
+    Cannot_Timewarp_While_Moving_Water=Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga
+    Cannot_Timewarp_While_Accelerating=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita
+    Cannot_Use_Part_While_Timewarping=Flauta Ceviche Miga Machaca Nacho
+    Cannot_Turn_While_Timewarping=Taco Chimichanga Burrito Tamale
+
+    Timewarp_To_Button=Pozole Enchilada
+
+[Units]
+    Thrust_To_Weight_Ratio=Guacamole Quesadilla Mole Gordita
+    Mass=Flauta Ceviche
+    Density=Miga Machaca
+    Thrust=Nacho Taco
+    Burn_Time=Chimichanga Burrito Tamale
+    Efficiency=Pozole Enchilada Guacamole
+    Mass_Unit=Quesadilla
+    Meter_Unit=Mole
+    Km_Unit=Gordita
+    Meter_Per_Second_Unit=Flauta
+
+[Timestamps]
+    Second_Short=Ceviche
+    Minute_Short=Miga
+    Hour_Short=Machaca
+    Day_Short=Nacho
+
+[Resource Types]
+    Solid_Fuel=Taco Chimichanga
+    Liquid_Fuel=Burrito Tamale
+
+[Resource Uses]
+    Resource_Bars_Title=Pozole
+    Info_Resource_Amount=Enchilada Guacamole
+    Msg_No_Resource_Source=Quesadilla Mole Gordita
+    Msg_No_Resource_Left=Flauta Ceviche Miga
+
+[Part Categories]
+    Basic_Parts=Machaca
+    Six_Wide_Parts=Nacho Taco
+    Eight_Wide_Parts=Chimichanga Burrito
+    Ten_Wide_Parts=Tamale Pozole
+    Twelve_Wide_Parts=Enchilada Guacamole
+    Engine_Parts=Quesadilla
+    Aerodynamics_Parts=Mole
+    Fairings_Parts=Gordita
+    Structural_Parts=Flauta
+    Other_Parts=Ceviche
+    Redstone_Atlas=Miga Machaca
+    Boosters=Nacho
+
+[Part Names]
+    Capsule_Name=Taco
+    Probe_Name=Chimichanga
+    Parachute_Name=Burrito
+
+    Kolibri_Engine_Name=Tamale Pozole
+    Hawk_Engine_Name=Enchilada Guacamole
+    Valiant_Engine_Name=Quesadilla Mole
+    Titan_Engine_Name=Gordita Flauta
+    Frontier_Engine_Name=Ceviche Miga
+    Peregrine_Engine_Name=Machaca Nacho
+    Ion_Engine_Name=Taco Chimichanga
+    RCS_Thruster_Name=Burrito Tamale
+
+    Solid_Rocket_Booster=Pozole Enchilada Guacamole
+
+    Fuel_Tank_Name=Quesadilla Mole
+    Separator_Name=Gordita Flauta
+    Side_Separator_Name=Ceviche Miga
+    Structural_Part_Name=Machaca Nacho
+    Landing_Leg_Name=Taco Chimichanga
+    Aerodynamic_Nose_Cone_Name=Burrito Tamale Pozole
+    Aerodynamic_Fuselage_Name=Enchilada Guacamole
+    Fairing_Name=Quesadilla
+    Rover_Wheel_Name=Mole Gordita
+    Docking_Port_Name=Flauta Ceviche
+    Solar_Panel_Name=Miga Machaca
+    Battery_Name=Nacho
+    RTG_Name=Taco
+    Heat_Shield_Name=Chimichanga Burrito
+    Fuel_Pipe_Name=Tamale Pozole
+    A_7_Engine_Name=Enchilada Guacamole
+    Side_Cover_Name=Quesadilla Mole
+    Cover_name=Gordita
+    Fuselage_Name=Flauta
+    LR_89_5_Engine_Name=Ceviche Miga
+    LR_105_5_Engine_Name=Machaca Nacho
+    Adapter_Name=Taco
+    Engine_Base_Name=Chimichanga Burrito
+    Retro_Pack_Name=Tamale Pozole
+    LES_Name=Enchilada Guacamole Quesadilla
+
+[Part Descriptions]
+    Capsule_Description=Mole Gordita Flauta Ceviche Miga Machaca
+    Probe_Description=Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+    Parachute_Description=Quesadilla Mole Gordita Flauta Ceviche
+    Fuel_Tank_Description=Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada
+    Separator_Description=Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    Side_Separator_Description=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+    Landing_Leg_Description=Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+    Structural_Part_Description=Enchilada Guacamole Quesadilla Mole Gordita Flauta
+    Hawk_Engine_Description=Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+    Titan_Engine_Description=Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    Valiant_Engine_Description=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta
+    Frontier_Engine_Description=Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+    Kolibri_Engine_Description=Gordita Flauta Ceviche Miga Machaca Nacho
+    Ion_Engine_Description=Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+    RCS_Thruster_Description=Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito
+
+    Booster_Description=Tamale Pozole Enchilada Guacamole Quesadilla
+    Booster_Description=Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco
+
+    Aerodynamic_Nose_Cone_Description=Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    Aerodynamic_Fuselage_Description=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+    Fairing_Description=Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+    Battery_Description=Miga Machaca Nacho Taco Chimichanga Burrito Tamale
+    Solar_Panel_Description=Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+    RTG_Description=Miga Machaca Nacho Taco Chimichanga
+    Rover_Wheel_Description=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+    Docking_Port_Description=Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+    Heat_Shield_Description=Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito
+    Fuel_Pipe_Description=Tamale Pozole Enchilada Guacamole Quesadilla Mole
+
+[Modules]
+    Torque_Module_Torque=Gordita Flauta
+    Separation_Force=Ceviche Miga Machaca
+    Magnet_Force=Nacho Taco Chimichanga
+
+    Max_Heat_Tolerance=Burrito Tamale Pozole
+
+    State_On{0}=Enchilada
+    State_Off{0}=Guacamole
+
+    Engine_Module_State=Quesadilla Mole
+    Engine_On_Label=Gordita Flauta
+    Gimbal_On_Label=Ceviche Miga
+
+    Booster_On=Machaca Nacho
+    Booster_Off=Taco Chimichanga
+    Cannot_Ignite_Covered_Booster=Burrito Tamale Pozole Enchilada Guacamole
+    Booster_Cannot_Be_Off=Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco
+
+    Msg_RCS_Module_State=Chimichanga Burrito
+
+    Wheel_Module_State=Tamale Pozole Enchilada
+    Wheel_On_Label=Guacamole Quesadilla
+
+    Panel_Expanded=Mole
+    Landing_Leg_Expanded=Gordita
+
+    Detach_Edges_Label=Flauta Ceviche
+    Adapt_To_Tanks_Label=Miga Machaca Nacho Taco
+
+    Info_Parachute_Max_Height=Chimichanga Burrito Tamale Pozole
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=Enchilada Guacamole Quesadilla Mole Gordita Flauta
+    Msg_Cannot_Deploy_Parachute_Above=Ceviche Miga Machaca Nacho Taco
+    Msg_Cannot_Fully_Deploy_Above=Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+    Msg_Cannot_Deploy_Parachute_While_Faster=Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=Taco Chimichanga Burrito Tamale Pozole Enchilada
+    Msg_Cannot_Deploy_Parachute_Under_Water=Guacamole Quesadilla Mole Gordita
+    Msg_Parachute_Half_Deployed=Flauta Ceviche Miga
+    Msg_Parachute_Fully_Deployed=Machaca Nacho Taco
+    Msg_Parachute_Cut=Chimichanga Burrito
+
+[Part Pick Categories]
+# Part Categories in Pick Part Menu
+    Part_Pick_Category_Aero=Tamale
+    Part_Pick_Category_Parachutes=Pozole
+    Part_Pick_Category_Engines=Enchilada
+    Part_Pick_Category_Structural=Guacamole
+    Part_Pick_Category_Utility=Quesadilla
+    Part_Pick_Category_Control=Mole
+    Part_Pick_Category_Landing=Gordita
+    Part_Pick_Category_Electricity=Flauta
+
+    Part_Pick_Category_Fuel=Ceviche
+    Part_Pick_Category_Fuel=Miga
+
+    Part_Pick_Category_Fairings=Machaca
+    Part_Pick_Category_Wheels=Nacho
+    Part_Pick_Category_Docking=Taco
+
+    Part_Pick_Category_Heat_Protection=Chimichanga
+    Part_Pick_Category_Heat_Protection=Burrito
+
+    Part_Pick_Category_Staging=Tamale
+    Part_Pick_Category_Mounts=Pozole
+
+[Planets]
+    Sun{0}=Enchilada
+    Sun{1}=Guacamole Quesadilla
+    Sun{2}=Mole Gordita
+    Mercury{0}=Flauta
+    Venus{0}=Ceviche
+    Earth{0}=Miga
+    Earth{1}=Machaca Nacho
+    Earth{2}=Taco Chimichanga
+    Earth{3}=Burrito
+    Moon{0}=Tamale
+    Moon{1}=Pozole Enchilada
+    Moon{2}=Guacamole Quesadilla
+    Near_Earth_Asteroid{0}=Mole Gordita
+    Near_Earth_Asteroid{1}=Flauta Ceviche Miga
+    Near_Earth_Asteroid{2}=Machaca Nacho Taco
+    Mars{0}=Chimichanga
+    Phobos{0}=Burrito
+    Deimos{0}=Tamale
+    Ceres{0}=Pozole
+    Jupiter{0}=Enchilada
+    Jupiter{1}=Guacamole
+    Jupiter{2}=Quesadilla
+    Jupiter{3}=Mole
+    Europa{0}=Gordita
+    Ganymede{0}=Flauta
+    Io{0}=Ceviche
+    Callisto{0}=Miga
+    Thebe{0}=Machaca
+    Thebe{1}=Nacho
+    Thebe{2}=Taco
+    Thebe{3}=Chimichanga
+    Saturn{0}=Burrito
+    Saturn{1}=Tamale
+    Saturn{2}=Pozole
+    Saturn{3}=Enchilada
+    Pan{0}=Guacamole
+    Pan{1}=Quesadilla
+    Pan{2}=Mole
+    Pan{3}=Gordita
+    Enceladus{0}=Flauta
+    Enceladus{1}=Ceviche
+    Enceladus{2}=Miga
+    Enceladus{3}=Machaca
+    Iapetus{0}=Nacho
+    Iapetus{1}=Taco
+    Iapetus{2}=Chimichanga
+    Iapetus{3}=Burrito
+    Titan{0}=Tamale
+    Titan{1}=Pozole
+    Titan{2}=Enchilada
+    Titan{3}=Guacamole
+    Rhea{0}=Quesadilla
+    Rhea{1}=Mole
+    Rhea{2}=Gordita
+    Rhea{3}=Flauta
+    Tethys{0}=Ceviche
+    Tethys{1}=Miga
+    Tethys{2}=Machaca
+    Tethys{3}=Nacho
+    Dione{0}=Taco
+    Dione{1}=Chimichanga
+    Dione{2}=Burrito
+    Dione{3}=Tamale
+    Mimas{0}=Pozole
+    Mimas{1}=Enchilada
+    Mimas{2}=Guacamole
+    Mimas{3}=Quesadilla
+    Uranus{0}=Mole
+    Uranus{1}=Gordita
+    Uranus{2}=Flauta
+    Uranus{3}=Ceviche
+    Miranda{0}=Miga
+    Miranda{1}=Machaca
+    Miranda{2}=Nacho
+    Miranda{3}=Taco
+    Ariel{0}=Chimichanga
+    Ariel{1}=Burrito
+    Ariel{2}=Tamale
+    Ariel{3}=Pozole
+    Titania{0}=Enchilada
+    Titania{1}=Guacamole
+    Titania{2}=Quesadilla
+    Titania{3}=Mole
+    Umbriel{0}=Gordita
+    Umbriel{1}=Flauta
+    Umbriel{2}=Ceviche
+    Umbriel{3}=Miga
+    Oberon{0}=Machaca
+    Oberon{1}=Nacho
+    Oberon{2}=Taco
+    Oberon{3}=Chimichanga
+    Puck{0}=Burrito
+    Puck{1}=Tamale
+    Puck{2}=Pozole
+    Puck{3}=Enchilada
+    Neptune{0}=Guacamole
+    Neptune{1}=Quesadilla
+    Neptune{2}=Mole
+    Neptune{3}=Gordita
+    Proteus{0}=Flauta
+    Proteus{1}=Ceviche
+    Proteus{2}=Miga
+    Proteus{3}=Machaca
+    Triton{0}=Nacho
+    Triton{1}=Taco
+    Triton{2}=Chimichanga
+    Triton{3}=Burrito
+    Naiad{0}=Tamale
+    Naiad{1}=Pozole
+    Naiad{2}=Enchilada
+    Naiad{3}=Guacamole
+    Pluto{0}=Quesadilla
+    Pluto{1}=Mole
+    Pluto{2}=Gordita
+    Pluto{3}=Flauta
+    Charon{0}=Ceviche
+    Charon{1}=Miga
+    Charon{2}=Machaca
+    Charon{3}=Nacho
+    Nix{0}=Taco
+    Nix{1}=Chimichanga
+    Nix{2}=Burrito
+    Nix{3}=Tamale
+    Hydra{0}=Pozole
+    Hydra{1}=Enchilada
+    Hydra{2}=Guacamole
+    Hydra{3}=Quesadilla
+
+[Landmarks]
+    Sea_of_Tranquility=Mole Gordita Flauta
+    Sea_of_Serenity=Ceviche Miga Machaca
+    Ocean_of_Storms=Nacho Taco Chimichanga
+    Copernicus_Crater=Burrito Tamale
+    Tycho_Crater=Pozole Enchilada
+
+    Olympus_Mons=Guacamole Quesadilla
+    Valles_Marineris=Mole Gordita
+    Gale_Crater=Flauta Ceviche
+    Hellas_Planitia=Miga Machaca
+    Arcadia_Planitia=Nacho Taco
+    Utopia_Planitia=Chimichanga Burrito
+    Jezero_Crater=Tamale Pozole
+
+    Stickney_Crater=Enchilada Guacamole
+
+    Voltaire_Crater=Quesadilla Mole
+    Swift_Crater=Gordita Flauta
+
+    Atalanta_Planitia=Ceviche Miga
+    Lavinia_Planitia=Machaca Nacho
+
+    Caloris_Planitia=Taco Chimichanga
+    Borealis_Planitia=Burrito Tamale
+    Maxwell_Montes=Pozole Enchilada
+
+    Laica_Crater=Guacamole Quesadilla
+    Kachina_Chasmata=Mole Gordita
+
+    Urvara_Crater=Flauta Ceviche
+    Kerwan_Crater=Miga Machaca
+
+    Bosphorus_Regio=Nacho Taco
+    Colchis_Regio=Chimichanga Burrito
+    Chalybes_Regio=Tamale Pozole
+
+    Conamara_Chaos=Enchilada Guacamole
+
+    Galileo_Regio=Quesadilla Mole
+
+    Equatorial_Ridge=Gordita Flauta
+
+    Verona_Rupes=Ceviche Miga
+    Arden_Corona=Machaca Nacho
+    Elsinore_Corona=Taco Chimichanga
+
+    Mommur_Chasma=Burrito Tamale
+
+    Wunda_Crater=Pozole Enchilada
+    Vuver_Crater=Guacamole Quesadilla
+    Skynd_Crater=Mole Gordita
+
+    Telemachus=Flauta
+    Ithaca_Chasma=Ceviche Miga
+
+    Bogle_Crater=Machaca Nacho
+    Lob_Crater=Taco Chimichanga
+    Butz_Crater=Burrito Tamale
+
+    Palatine_Chasmata=Pozole Enchilada
+    Evander_Crater=Guacamole Quesadilla
+
+    Tirawa_Crater=Mole Gordita
+
+    Tiger_Stripes=Flauta Ceviche
+
+    Senkyo_Ocean=Miga Machaca
+    Fensal_Ocean=Nacho Taco
+    Shangri_La_Ocean=Chimichanga Burrito Tamale
+
+    Bona_Chasma=Pozole Enchilada
+
+    Pharos_Crater=Guacamole Quesadilla
+
+    Guttae=Mole
+
+    Herschel_Crater=Gordita Flauta
+
+    Sputnik_Planitia=Ceviche Miga
+
+    Serenity_Chasma=Machaca Nacho
+    Mordor_Macula=Taco Chimichanga
+
+    Metztli_Crater=Burrito Tamale
+
+    Zethus_Crater=Pozole Enchilada
+
+[Challenges]
+    Liftoff_Title=Guacamole
+    Liftoff=Quesadilla Mole Gordita Flauta
+
+    Reach10km_Title=Ceviche Miga
+    Reach10km=Machaca Nacho Taco Chimichanga Burrito
+
+    ReachSpace_Title=Tamale Pozole
+    ReachSpace=Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+
+    Land100kmDownrange_Title=Machaca Nacho Taco
+    Land100kmDownrange=Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita
+
+    ReachLowEarthOrbit_Title=Flauta Ceviche Miga Machaca
+    ReachLowEarthOrbit=Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada
+
+    ReachHighEarthOrbit_Title=Guacamole Quesadilla Mole Gordita
+    ReachHighEarthOrbit=Flauta Ceviche Miga Machaca Nacho Taco Chimichanga
+
+    MoonOrbit_Title=Burrito Tamale
+    MoonOrbit=Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche
+
+    MoonTour_Title=Miga Machaca
+    MoonTour=Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole
+
+    AsteroidImpact_Title=Quesadilla Mole
+    AsteroidImpact=Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+
+    MarsGrandTour_Title=Enchilada Guacamole Quesadilla
+    MarsGrandTour=Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+
+    VenusLanding_Title=Enchilada Guacamole
+    VenusLanding=Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale
+
+    VenusReturn_Title=Pozole Enchilada
+    VenusReturn=Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada
+
+    MercuryLanding_Title=Guacamole Quesadilla
+    MercuryLanding=Mole Gordita Flauta Ceviche Miga Machaca
+
+    MercuryReturn_Title=Nacho Taco
+    MercuryReturn=Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita
+
+[Achievements]
+    Reached_Karman_Line=Flauta Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale Pozole
+    Reached_Height=Enchilada Guacamole Quesadilla
+
+[Mod Loader]
+    Mods_Button=Mole
+    Mods_Still_Loading=Gordita Flauta Ceviche Miga
+    ModType_Label=Machaca Nacho
+    Version_Label=Taco Chimichanga
+    CodeMod_Name=Burrito Tamale
+    PartAssetPack_Name=Pozole Enchilada Guacamole
+    TexturePack_Name=Quesadilla Mole Gordita
+    SolarSystemPack_Name=Flauta Ceviche Miga
+    CodeModNotAllowedOnMobile=Machaca Nacho Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho
+    Author_Label=Taco Chimichanga
+    Changes_Warning=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco
+    Relaunch=Chimichanga
+
+    Set_ModsFolder_Question=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho Taco
+    Set_ModsFolder_Question=Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta
+
+    Lost_Access_Mods=Ceviche Miga Machaca Nacho Taco Chimichanga Burrito Tamale
+    Lost_Access_Mods=Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga
+    Lost_Access_Mods=Machaca Nacho Taco Chimichanga Burrito Tamale
+
+    Set_ModsFolder_Continue=Pozole
+
+    Set_ModsFolder_Confirm_Copy=Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca
+    Set_ModsFolder_Confirm_Copy=Nacho
+    Set_ModsFolder_Confirm_Copy=Taco
+    Set_ModsFolder_Confirm_Copy=Chimichanga
+    Set_ModsFolder_Confirm_Copy=Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole Gordita Flauta Ceviche Miga Machaca Nacho
+
+[Notifications]
+    Notify_For_New_Releases=Taco Chimichanga Burrito Tamale Pozole Enchilada Guacamole Quesadilla Mole
+    Notify_Me=Gordita Flauta
